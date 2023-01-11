@@ -1,0 +1,762 @@
+sf_casrn,sf_exp_name,sf_numsites,roc_15th_listing,roc_flag,iarc_exp_name,iarc_flag,atsdr_exp_name,atsdr_flag,cebsgt_exp_name,cebsgt_pubnum,cebsgt_dtxsid,cebsgt_ames_conclusion,cebsgt_male_rat_micronucleus,cebsgt_female_rat_micronucleus,cebsgt_male_mouse_micronucleus,cebsgt_female_mouse_micronucleus,cebsgt_mn_conclusion,cebsgt_male_rat_comet,cebsgt_female_rat_comet,cebsgt_male_mouse_comet,cebsgt_female_mouse_comet,cebsgt_flag,genetox_flag,cebs_exp_name,cebs_dtxsid,cebs_male_rats,cebs_female_rats,cebs_male_mice,cebs_female_mice,cebs_flag,organ_flag
+100-01-6,4-NITROANILINE,13,,False,,False,,False,p-Nitroaniline,TR-418,DTXSID8020961,Positive,,,,,,,,,,Evidence,True,p-Nitroaniline,DTXSID8020961,,,,,No Evidence,True
+100-02-7,4-NITROPHENOL,44,,False,,False,,False,p-Nitrophenol,TR-417,DTXSID0021834,Negative,,,,,,,,,,No Evidence,True,p-Nitrophenol,DTXSID0021834,,,,,No Evidence,True
+100-21-0,TEREPHTHALIC ACID,1,,False,,False,,False,Terephthalic acid,,DTXSID6026080,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+100-25-4,"1,4-DINITROBENZENE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+100-39-0,ALPHA-BROMOTOLUENE,1,,False,,False,,False,alpha-Bromotoluene,,DTXSID8024658,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+100-41-4,ETHYLBENZENE,576,,False,Ethylbenzene,True,ETHYLBENZENE,True,Ethylbenzene,TR-466,DTXSID3020596,Negative,,,Negative,Negative,,,,,,No Evidence,True,Ethylbenzene,DTXSID3020596,"KIDNEY_TUBULAR_CELL,TESTIS",KIDNEY_TUBULAR_CELL,LUNG,LIVER,Evidence,True
+100-42-5,STYRENE (MONOMER);VINYLBENZENE;STYRENE,151,RAHC,True,Styrene,True,STYRENE,True,Styrene,TR-185,DTXSID2021284,Negative,,,,,,,,,,No Evidence,True,Styrene,DTXSID2021284,,,,,No Evidence,True
+100-44-7,BENZYL CHLORIDE,4,,False,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)",True,,False,Benzyl chloride,,DTXSID0020153,Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+100-47-0,BENZONITRILE,1,,False,,False,,False,Benzonitrile,,DTXSID7021491,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+100-51-6,BENZYL ALCOHOL,34,,False,,False,,False,Benzyl alcohol,TR-343,DTXSID5020152,Negative,,,,,,,,,,No Evidence,True,Benzyl alcohol,DTXSID5020152,,,,,No Evidence,True
+100-52-7,BENZALDEHYDE,4,,False,,False,,False,Benzaldehyde,TR-378,DTXSID8039241,Negative,,,,,,,,,,No Evidence,True,Benzaldehyde,DTXSID8039241,,,FORESTOMACH,FORESTOMACH,Evidence,True
+100-71-0,2-ETHYLPYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1002-53-5,DIBUTYLTIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10025-73-7,CHROMIUM CHLORIDE (3),5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10028-17-8,TRITIUM,12,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10043-92-2,RADON,14,Known,True,Radon-222 and its decay products,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10045-89-3,FERROUS AMMONIUM SULFATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10045-97-3,CESIUM-137,16,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10049-05-5,CHROMOUS CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10061-01-5,"cis-1,3,-DICHLOROPROPENE",15,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10061-02-6,"TRANS-1,3-DICHLOROPROPENE",26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10098-97-2,STRONTIUM-90,12,,False,Strontium-90 (see Fission products),True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10099-74-8,LEAD NITRATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+101-14-4,"4,4-METHYLENEBIS (2-CHLOROANILINE);4,4-METHYLENE BIS (2 CHLOROANILINE)",1,RAHC,True,"4,4'-Methylenebis(2-chloroaniline) (MOCA)",True,"4,4'-METHYLENEBIS(2-CHLOROANILINE) (MBOCA)",True,"4,4'-Methylenebis(2-chloroaniline)",,DTXSID5020865,Equivocal;Positive;Weakly Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+101-55-3,4-BROMOPHENYL PHENYL ETHER,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10101-53-8,CHROMIC SULFATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10102-06-4,URANYL NITRATE SOLID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+102-71-6,TRIETHANOLAMINE,1,,False,Triethanolamine,True,,False,Triethanolamine,"TR-449, TR-518",DTXSID9021392,Negative,,,Negative,Negative,,,,,,No Evidence,True,Triethanolamine,DTXSID9021392,,,,LIVER,Evidence,True
+1024-57-3,HEPTACHLOR EPOXIDE,163,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10294-33-4,BORON TRIBROMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+103-23-1,BIS(2-ETHYLHEXYL) ADIPATE,2,,False,Di(2-ethylhexyl) adipate,True,,False,Di(2-ethylhexyl)adipate,TR-212,DTXSID0020606,Negative,,,Negative,,,,,,,No Evidence,True,Di(2-ethylhexyl)adipate,DTXSID0020606,,,LIVER,LIVER,Evidence,True
+103-33-3,AZOBENZENE,2,,False,Azobenzene,True,,False,Azobenzene,TR-154,DTXSID8020123,Positive,,,,,,,,,,Evidence,True,Azobenzene,DTXSID8020123,SPLEEN,SPLEEN,,,Evidence,True
+103-65-1,N-PROPYL BENZENE,21,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1031-07-8,ENDOSULFAN SULFATE,75,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+10361-37-2,BARIUM CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+104-51-8,N-BUTYL BENZENE,13,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+104-76-7,2-ETHYL HEXANOL,2,,False,,False,,False,2-Ethylhexanol,,DTXSID5020605,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+104-90-5,2-METHYL-5-ETHYL PYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+105-60-2,CAPROLACTAM,4,,False,Caprolactam,True,,False,Caprolactam,TR-214,DTXSID4020240,Negative,,,Negative,,,,,,,No Evidence,True,Caprolactam,DTXSID4020240,,,,,No Evidence,True
+105-67-9,"2,4-DIMETHYLPHENOL",154,,False,,False,,False,"2,4-Dimethylphenol",,DTXSID2021864,Negative;Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+10595-95-6,N-NITROSOMETHYLETHYLAMINE,1,,False,N-Nitrosomethylethylamine,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+106-42-3,"para-XYLENE;P-XYLENE;1,4-DIMETHYLBENZENE",29,,False,,False,,False,p-Xylene,,DTXSID2021868,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+106-44-5,p-CRESOL;4-CRESOL;4-METHYLPHENOL,219,,False,,False,,False,p-Cresol,,DTXSID7021869,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+106-46-7,"p-DICHLOROBENZENE;1,4-DICHLOROBENZENE",253,RAHC,True,para-Dichlorobenzene,True,"1,4-DICHLOROBENZENE",True,"1,4-Dichlorobenzene (p-dichlorobenzene)",TR-319,DTXSID1020431,Negative,,,Negative,Negative,,,,,,No Evidence,True,"1,4-Dichlorobenzene (p-dichlorobenzene)",DTXSID1020431,KIDNEY_TUBULAR_CELL,,"ADRENAL_GLAND_MEDULLA,LIVER",LIVER,Evidence,True
+106-47-8,"4-CHLOROANILINE;CHLOROANILINE, P-",14,,False,para-Chloroaniline,True,,False,p-Chloroaniline,TR-189,DTXSID9020295,Positive;Negative;Weakly Positive,,,,,,,,,,Evidence,True,p-Chloroaniline,DTXSID9020295,,,,,No Evidence,True
+106-93-4,"EDB;ETHYLENE DIBROMIDE;1,2-DIBROMOETHANE",38,RAHC,True,Ethylene dibromide,True,,False,"1,2-Dibromoethane","TR-086, TR-210",DTXSID3020415,Positive,,,Positive,,,,,,,Evidence,True,"1,2-Dibromoethane",DTXSID3020415,"FORESTOMACH,MESOTHELIUM_ABDOMINAL_CAVITYTUNICA_VAGINALIS,NASAL_CAVITY,VASCULAR_SYSTEM_UNSPECIFIED","FORESTOMACH,LIVER,LUNG,MAMMARY_GLAND,NASAL_CAVITY,VASCULAR_SYSTEM_UNSPECIFIED","FORESTOMACH,LUNG","FORESTOMACH,LUNG,MAMMARY_GLAND,NASAL_CAVITY,SUBCUTANEOUS_TISSUE,VASCULAR_SYSTEM_UNSPECIFIED",Evidence,True
+106-97-8,BUTANE,1,,False,,False,,False,n-Butane,,DTXSID7024665,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+106-99-0,"1,3-BUTADIENE",1,Known,True,"1,3-Butadiene",True,,False,"1,3-Butadiene","TR-288, TR-434",DTXSID3020203,Positive,,,Positive (Nonstandard Protocol),,,,,,,Evidence,True,"1,3-Butadiene",DTXSID3020203,,,"BRAIN,FORESTOMACH,HARDERIAN_GLAND,HEMATOPOIETIC_SYSTEM,INTESTINES_SMALL,KIDNEY_TUBULAR_CELL,LIVER,LUNG,PREPUTIAL_GLAND,VASCULAR_SYSTEM_HEART,ZYMBAL_GLAND","FORESTOMACH,HARDERIAN_GLAND,HEMATOPOIETIC_SYSTEM,KIDNEY_TUBULAR_CELL,LIVER,LUNG,MAMMARY_GLAND,OVARY,SUBCUTANEOUS_TISSUE,VASCULAR_SYSTEM_HEART,ZYMBAL_GLAND",Evidence,True
+107-02-8,ACROLEIN,7,,False,Acrolein,True,ACROLEIN,True,Acrolein,,DTXSID5020023,Negative;Weakly Positive,,,Negative,Negative,,,,,,Weak Evidence,True,,,,,,,,False
+107-05-1,ALLYL CHLORIDE,2,,False,Allyl chloride,True,,False,Allyl chloride,TR-073,DTXSID4039231,Positive,,,,,,,,,,Evidence,True,Allyl chloride,DTXSID4039231,,,,,No Evidence,True
+107-06-2,"1,2-DICHLOROETHANE;1,2-DCA;1,2-DICHLOROETHANE (DCA)",483,RAHC,True,"1,2-Dichloroethane",True,"1,2-DICHLOROETHANE",True,"1,2-Dichloroethane",TR-055,DTXSID6020438,Positive,,,Negative,Negative,,,,,,Evidence,True,"1,2-Dichloroethane",DTXSID6020438,"FORESTOMACH,SUBCUTANEOUS_TISSUE,VASCULAR_SYSTEM_UNSPECIFIED",MAMMARY_GLAND,LUNG,"LUNG,MAMMARY_GLAND,UTERUSCERVIX",Evidence,True
+107-12-0,PROPIONITRILE,1,,False,,False,,False,Propionitrile,,DTXSID1021879,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+107-13-1,ACRYLONITRILE,10,RAHC,True,Acrylonitrile,True,ACRYLONITRILE,True,Acrylonitrile,TR-506,DTXSID5020029,Positive,,,Negative,Negative,,,,,,Evidence,True,Acrylonitrile,DTXSID5020029,,,"FORESTOMACH,HARDERIAN_GLAND","FORESTOMACH,HARDERIAN_GLAND,LUNG,OVARY",Evidence,True
+107-21-1,ETHYLENE GLYCOL,5,,False,,False,ETHYLENE GLYCOL,True,Ethylene glycol,TR-413,DTXSID8020597,Negative,,,,,,,,,,No Evidence,True,Ethylene glycol,DTXSID8020597,,,,,No Evidence,True
+107-44-8,SARIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-05-4,VINYL ACETATE,14,,False,Vinyl acetate,True,VINYL ACETATE,True,Vinyl acetate,,DTXSID3021431,Negative,Positive,,,,,,,,,Evidence,True,,,,,,,,False
+108-10-1,HEXONE;MIBK;METHYL ISOBUTYL KETONE;4-METHYL-2-PENTANONE,216,,False,Methyl isobutyl ketone,True,,False,Methyl isobutyl ketone,TR-538,DTXSID5021889,Negative,,,,,,,,,,No Evidence,True,Methyl isobutyl ketone,DTXSID5021889,"HEMATOPOIETIC_SYSTEM,KIDNEY_TUBULAR_CELL",,LIVER,LIVER,Evidence,True
+108-20-3,ISOPROPYL ETHER,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-24-7,ACETIC ANHYDRIDE,1,,False,,False,,False,Acetic anhydride,,DTXSID0024395,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-38-3,"1,3-DIMEHTYLBENZENE;M-XYLENE;meta-XYLENE",44,,False,,False,,False,m-Xylene,,DTXSID6026298,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-39-4,3-METHYLPHENOL;M-CRESOL,16,,False,,False,,False,m-Cresol,,DTXSID6024200,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-42-9,CHLOROANILINE;2-CHLOROANILINE;O-CHLOROANILINE,5,,False,,False,,False,m-Chloroaniline,,DTXSID0024761,Negative,Negative,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+108-46-3,RESORCINOL,7,,False,Resorcinol,True,,False,Resorcinol,TR-403,DTXSID2021238,Negative,,,Positive,,,,,,,Evidence,True,Resorcinol,DTXSID2021238,,,,,No Evidence,True
+108-47-4,"2,4-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-48-5,"2,6-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-60-1,BIS(2-CHLORO-1-METHYLETHYL) ETHER,2,,False,Bis(2-chloro-1-methylethyl)ether,True,,False,bis(2-Chloro-1-methylethyl) ether,"TR-191, TR-239",DTXSID4020167,Positive;Weakly Positive,,,,,,,,,,Evidence,True,bis(2-Chloro-1-methylethyl) ether,DTXSID4020167,,,"LIVER,LUNG","FORESTOMACH,LUNG",Evidence,True
+108-67-8,"1,3,5-TRIMETHYLBENZENE;MESITYLENE",61,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-70-3,"1,3,5-TRICHLOROBENZENE",5,,False,,False,,False,"1,3,5-Trichlorobenzene",,DTXSID8026195,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-87-2,METHYLCYCLOHEXANE,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+108-88-3,TOLUENE,740,,False,Toluene,True,TOLUENE,True,Toluene,TR-371,DTXSID7021360,Negative,,,Negative,,,,,,,No Evidence,True,Toluene,DTXSID7021360,,,,,No Evidence,True
+108-89-4,4-PICOLINE,1,,False,,False,,False,4-Methylpyridine,,DTXSID4021892,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-90-7,MONOCHLOROBENZENE;CHLOROBENZENE,348,,False,,False,CHLOROBENZENE,True,Chlorobenzene,TR-261,DTXSID4020298,Negative,,,Negative,,,,,,,No Evidence,True,Chlorobenzene,DTXSID4020298,,,,,No Evidence,True
+108-93-0,CYCLOHEXANOL,1,,False,,False,,False,Cyclohexanol,,DTXSID4021894,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-94-1,CYCLOHEXANONE,2,,False,Cyclohexanone,True,,False,Cyclohexanone,,DTXSID6020359,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+108-95-2,PHENOL,330,,False,Phenol,True,PHENOL,True,Phenol,TR-203,DTXSID5021124,Negative,,,Positive,,,,,,,Evidence,True,Phenol,DTXSID5021124,,,,,No Evidence,True
+108-99-6,3-PICOLINE,1,,False,β-Picoline,True,,False,beta-Picoline,TR-580,DTXSID9021897,Negative,,,Negative,Negative,,,,,,No Evidence,True,beta-Picoline,DTXSID9021897,,LUNG,,"LIVER,LUNG",Evidence,True
+109-06-8,2-PICOLINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+109-60-4,ACETIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+109-66-0,PENTANE,3,,False,,False,,False,n-Pentane,,DTXSID2025846,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+109-77-3,MALONONITRILE,1,,False,,False,,False,Malonic dinitrile,,DTXSID6021907,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+109-87-5,DIMETHOXYMETHANE,1,,False,,False,,False,Methylal,,DTXSID1025564,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+109-99-9,TETRAHYDROFURAN,43,,False,Tetrahydrofuran,True,,False,Tetrahydrofuran,TR-475,DTXSID1021328,Negative,,,Equivocal,Negative,,,,,,No Evidence,True,Tetrahydrofuran,DTXSID1021328,KIDNEY_TUBULAR_CELL,,,LIVER,Evidence,True
+110-00-9,FURAN,8,RAHC,True,Furan,True,,False,Furan,TR-402,DTXSID6020646,Negative;Weakly Positive,,,,Equivocal,,,,,Positive,Evidence,True,Furan,DTXSID6020646,"HEMATOPOIETIC_SYSTEM,LIVER","HEMATOPOIETIC_SYSTEM,LIVER","ADRENAL_GLAND_MEDULLA,LIVER","ADRENAL_GLAND_MEDULLA,LIVER",Evidence,True
+110-16-7,MALEIC ACID,1,,False,,False,,False,Maleic acid,,DTXSID8021517,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+110-17-8,FUMARIC ACID,1,,False,,False,,False,Fumaric acid,,DTXSID3021518,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+110-54-3,HEXANE,8,,False,,False,"HEXANE, N-",True,n-Hexane,,DTXSID0021917,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+110-57-6,"TRANS-1,4-DICHLOROBUTENE",1,,False,"trans-1,4-Dichlorobutene",True,,False,"trans-1,4-Dichloro-2-butene",,DTXSID6020434,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+110-75-8,2-CHLOROETHYL VINYL ETHER,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+110-80-5,2-ETHOXYETHANOL,2,,False,,False,,False,Ethylene glycol monoethyl ether (EGMEE),,DTXSID7024087,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+110-82-7,CYCLOHEXANE,15,,False,,False,,False,Cyclohexane,,DTXSID4021923,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+110-86-1,PYRIDINE,8,,False,Pyridine,True,,False,Pyridine,TR-470,DTXSID9021924,Negative,,,Negative,Negative,,,,,,No Evidence,True,Pyridine,DTXSID9021924,KIDNEY_TUBULAR_CELL,,LIVER,LIVER,Evidence,True
+110-89-4,PIPERIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11096-82-5,AROCLOR-1260;PCB-1260 (AROCLOR-1260);PCB-1260,215,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11097-69-1,PCB-1254 (AROCLOR-1254);AROCLOR-1254;PCB-1254,228,,False,,False,POLYCHLORINATED BIPHENYLS (PCBs) (Aroclor 1254),True,Aroclor 1254,TR-038,DTXSID5020100,Negative,,,Not a Valid Test;Negative,,,,,,,Inadequate,True,Aroclor 1254,DTXSID5020100,,,,,No Evidence,True
+111-44-4,BIS(2-CHLOROETHYL) ETHER,69,,False,Bis(2-chloroethyl)ether,True,BIS(2 CHLOROETHYL)ETHER (BCEE),True,bis(2-Chloroethyl)ether,,DTXSID9020168,Equivocal;Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+111-46-6,DIETHYLENE GLYCOL,2,,False,,False,,False,Diethylene glycol,,DTXSID8020462,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+111-54-6,ETHYLENEBISDITHIOCARBAMIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+111-65-9,OCTANE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+111-76-2,2-BUTOXYETHANOL,4,,False,2-Butoxyethanol,True,2-BUTOXYETHANOL,True,2-Butoxyethanol (ethylene glycol monobutyl ether),TR-484,DTXSID1024097,Negative,Negative,,Negative,,,,,,,No Evidence,True,2-Butoxyethanol (ethylene glycol monobutyl ether),DTXSID1024097,,,"FORESTOMACH,LIVER,VASCULAR_SYSTEM_LIVER",FORESTOMACH,Evidence,True
+111-84-2,NONANE,3,,False,,False,,False,Nonane,,DTXSID9025796,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+111-91-1,BIS(2-CHLOROETHOXY) METHANE,11,,False,,False,,False,bis(2-Chloroethoxy)methane,TR-536,DTXSID4023917,Equivocal;Positive,Negative,,Negative,Negative,,,,,,Evidence,True,,,,,,,,False
+11104-28-2,AROCLOR-1221,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1114-71-2,PEBULATE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11141-16-5,PCB-1232 (AROCLOR-1232);AROCLOR-1232,14,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1116-54-7,N-NITROSODIETHANOLAMINE,1,RAHC,True,N-Nitrosodiethanolamine,True,,False,N-Nitrosodiethanolamine,,DTXSID7021027,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+112-34-5,DIETHYLENE GLYCOL MONOBUTYL ETHER,1,,False,,False,,False,Diethylene glycol monobutyl ether,,DTXSID8021519,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+11270036,BENZO[A]PYRENE EQUIVALENTS (BaPEq),23,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270038,C11-C22 Aromatics,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270039,C9-C10 Aromatics,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270040,DDT AND METABOLITES,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270041,DDTr,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270043,TOTAL EXTRACTABLE PETROLEUM HYDROCARBONS (TEPH),2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270044,TOTAL RECOVERABLE PETROLEUM HYDROCARBONS (TRPH),2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+11270046,UNEXPLODED ORDNANCE (UXO),7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+114-26-1,PROPYLENE GLYCOL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+115-07-1,PROPENE;PROPYLENE,3,,False,Propylene,True,,False,Propylene,TR-272,DTXSID5021205,Positive,,,,,,,,,,Evidence,True,Propylene,DTXSID5021205,,,,,No Evidence,True
+115-28-6,CHLORENDIC ACID,1,RAHC,True,Chlorendic acid,True,,False,Chlorendic acid,TR-304,DTXSID2020268,Negative,,,,,,,,,,No Evidence,True,Chlorendic acid,DTXSID2020268,"LIVER,LUNG,PANCREAS_ACINAR_CELL,PREPUTIAL_GLAND",LIVER,LIVER,,Evidence,True
+115-29-7,ENDOSULFAN,36,,False,,False,ENDOSULFAN,True,Endosulfan,TR-062,DTXSID1020560,Negative,,,,,,,,,,No Evidence,True,Endosulfan,DTXSID1020560,,,,,No Evidence,True
+115-32-2,DICOFOL,1,,False,Dicofol,True,,False,Dicofol,TR-090,DTXSID4020450,Negative,,,,,,,,,,No Evidence,True,Dicofol,DTXSID4020450,,,LIVER,,Evidence,True
+115-86-6,TRIPHENYL PHOSPHATE,1,,False,,False,,False,Triphenyl Phosphate,,DTXSID1021952,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+115-90-2,FENSULFOTHION,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+116-06-3,ALDICARB,1,,False,Aldicarb,True,,False,Aldicarb,TR-136,DTXSID0039223,Negative,,,,,,,,,,No Evidence,True,Aldicarb,DTXSID0039223,,,,,No Evidence,True
+117-81-7,B2EHP;BIS(2-ETHYLHEXYL)PHTHALATE;BEHP;DEHP;DI(2-ETHYLHEXYL)PHTHALATE,575,RAHC,True,Bis(2-ethylhexyl) phthalate (see Di(2-ethylhexyl) phthalate);Di(2-ethylhexyl)phthalate,True,DI(2-ETHYLHEXYL)PHTHALATE (DEHP),True,Di(2-ethylhexyl) Phthalate,TR-217,DTXSID5020607,Negative,,,Equivocal;Negative,Equivocal;Positive;Negative,,Negative,,,,Evidence,True,Di(2-ethylhexyl) Phthalate,DTXSID5020607,LIVER,LIVER,LIVER,LIVER,Evidence,True
+117-84-0,DI-N-OCTYL PHTHALATE,178,,False,,False,DI-N-OCTYL PHTHALATE,True,Dioctyl phthalate,,DTXSID5020607,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+118-74-1,HEXACHLOROBENZENE,65,RAHC,True,Hexachlorobenzene,True,HEXACHLOROBENZENE,True,Hexachlorobenzene,,DTXSID2020682,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+118-96-7,"TRINITROTOLUENE;TNT;2,4-6-TNT;2,4,6-TRINITROTOLUENE",34,,False,"2,4,6-Trinitrotoluene",True,"2,4,6-TRINITROTOLUENE",True,,,,,,,,,,,,,,,False,,,,,,,,False
+119-90-4,"3,3-DIMETHOXYBENZIDINE",2,RAHC,True,"3,3'-Dimethoxybenzidine (ortho-Dianisidine)",True,,False,"3,3'-Dimethoxybenzidine",,DTXSID3025091,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+119-93-7,"3,3-DIMETHYLBENZIDINE (O-TOLIDINE)",1,RAHC,True,"3,3'-Dimethylbenzidine (ortho-Tolidine)",True,,False,"3,3'-Dimethylbenzidine",,DTXSID5024059,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+1194-65-6,DICHLOBENIL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+120-12-7,ANTHRACENE,259,,False,Anthracene,True,ANTHRACENE,True,Anthracene,,DTXSID0023878,Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+120-36-5,DICHLORPROP,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+120-82-1,"1,2,4-TRICHLOROBENZENE",144,,False,,False,"1,2,4 - TRICHLOROBENZENE",True,"1,2,4-Trichlorobenzene",,DTXSID0021965,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+120-83-2,"2,4-DICHLOROPHENOL",50,,False,,False,"2,4-DICHLOROPHENOL",True,"2,4-Dichlorophenol",TR-353,DTXSID1020439,Equivocal,,,,,,,,,,No Evidence,True,"2,4-Dichlorophenol",DTXSID1020439,,,,,No Evidence,True
+121-14-2,"2,4-DNT;2,4-DINITROTOLUENE",56,,False,"2,4-Dinitrotoluene",True,"2,4-DINITROTOLUENE",True,"2,4-Dinitrotoluene",TR-054,DTXSID0020529,Positive,,,,,,,,,,Evidence,True,"2,4-Dinitrotoluene",DTXSID0020529,SKIN,MAMMARY_GLAND,,,Evidence,True
+121-21-1,PYRETHRINS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+121-44-8,TRIETHYLAMINE,2,,False,,False,,False,Triethylamine,,DTXSID3024366,Negative,,,Equivocal,Negative,,,,,,No Evidence,True,,,,,,,,False
+121-69-7,"N,N-DIMETHYLANILINE",1,,False,"N,N-Dimethylaniline",True,,False,"N,N-Dimethylaniline",TR-360,DTXSID2020507,Negative,,,,,,,,,,No Evidence,True,"N,N-Dimethylaniline",DTXSID2020507,SPLEEN,,,,Evidence,True
+121-75-5,MALATHION,11,,False,Malathion,True,MALATHION,True,Malathion,"TR-024, TR-192",DTXSID4020791,Negative,,,,,,,,,,No Evidence,True,Malathion,DTXSID4020791,,,,,No Evidence,True
+121-82-4,sym-TRIMETHYLENENTRINITRAMINE;CYCLONITE;RDX,37,,False,,False,RDX (CYCLONITE),True,,,,,,,,,,,,,,,False,,,,,,,,False
+12108-13-3,"MANGANESE, TRICARBONYL METHYLCYCLOPENTADIENYL",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+12185-10-3,WHITE PHOSPHORUS,13,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+122-34-9,SIMAZINE,2,,False,Simazine,True,,False,Simazine,,DTXSID4021268,,,,,,,Negative,,,,No Evidence,True,,,,,,,,False
+122-39-4,DIPHENYLAMINE,4,,False,,False,,False,N-Phenylbenzenamine,,DTXSID4021975,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+122-66-7,"1,2-DIPHENYLHYDRAZINE",6,RAHC,True,,False,"1,2-DIPHENYLHYDRAZINE",True,Hydrazobenzene,TR-092,DTXSID7020710,Positive,,,,,,,,,,Evidence,True,Hydrazobenzene,DTXSID7020710,"LIVER,ZYMBAL_GLAND","LIVER,MAMMARY_GLAND",,LIVER,Evidence,True
+123-86-4,N-BUTYL ACETATE,1,,False,,False,,False,n-Butyl acetate,,DTXSID3021982,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+123-91-1,"1,4-DIOXANE",37,RAHC,True,"1,4-Dioxane",True,"1,4-DIOXANE",True,"1,4-Dioxane",TR-080,DTXSID4020533,Negative,,,Equivocal;Negative,,,,,,,No Evidence,True,"1,4-Dioxane",DTXSID4020533,NASAL_CAVITY,"LIVER,NASAL_CAVITY",LIVER,LIVER,Evidence,True
+124-38-9,CARBON DIOXIDE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+124-40-3,DIMETHYLAMINE,1,,False,,False,,False,Dimethylamine,,DTXSID5024057,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+124-48-1,DIBROMOCHLOROMETHANE;CHLORODIBROMOMETHANE,64,,False,Chlorodibromomethane,True,DIBROMOCHLOROMETHANE,True,Chlorodibromomethane,TR-282,DTXSID1020300,Negative;Weakly Positive,,,Negative,,,,,,,Weak Evidence,True,Chlorodibromomethane,DTXSID1020300,,,,LIVER,Evidence,True
+12427-38-2,"MANEB (CARBAMODITHIOIC ACID, 1,2-ETHANEDIYLBIS-,MANGANESE COMPLEX)",1,,False,Maneb,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+12587-46-1,ALPHA GROSS,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+12587-47-2,BETA GROSS,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+126-72-7,"TRIS(2,3-DIBROMOPROPYL) PHOSPHATE",2,RAHC,True,"Tris(2,3-dibromopropyl) phosphate",True,,False,,,,,,,,,,,,,,,False,"tris(2,3-Dibromopropyl) phosphate",DTXSID5021413,KIDNEY_TUBULAR_CELL,KIDNEY_TUBULAR_CELL,"FORESTOMACH,KIDNEY_TUBULAR_CELL,LUNG","FORESTOMACH,LIVER,LUNG",Evidence,True
+126-73-8,TRIBUTYL PHOSPHATE,2,,False,,False,TRIBUTYL PHOSPHATE (TNBP),True,Tributyl phosphate,,DTXSID3021986,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+126-98-7,2-METHYL-2-PROPENENITRILE,1,,False,,False,,False,Methacrylonitrile,TR-497,DTXSID1024176,Negative,Negative,,Negative,Negative,,,,,,No Evidence,True,Methacrylonitrile,DTXSID1024176,,,,,No Evidence,True
+12672-29-6,PCB-1248 (AROCLOR-1248);PCB-1248;AROCLOR-1248,127,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+12674-11-2,AROCLOR-1016;PCB-1016,30,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+127-18-4,TETRACHLOROETHYLENE;TETRACHLOROETHENE;PCE;PERCHLOROETHYLENE;PERCHLOROETHENE,753,RAHC,True,Tetrachloroethylene (Perchloroethylene),True,TETRACHLOROETHYLENE,True,Tetrachloroethylene,"TR-013, TR-311",DTXSID2021319,Negative,,,Negative,,,,,,,No Evidence,True,Tetrachloroethylene,DTXSID2021319,"HEMATOPOIETIC_SYSTEM,KIDNEY_TUBULAR_CELL",HEMATOPOIETIC_SYSTEM,LIVER,LIVER,Evidence,True
+129-00-0,PYRENE,356,,False,Pyrene,True,,False,Pyrene,,DTXSID3024289,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+1300-71-6,XYLENOL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1303-86-2,BORON OXIDE,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1304-82-1,BISMUTH TEILLURIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+130498-29-2,TOTAL PAHs,22,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1305-62-0,CALCIUM HYDROXIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1305-78-8,CALCIUM OXIDE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1306-19-0,CADMIUM OXIDE,1,,False,,False,,False,Cadmium oxide,,DTXSID0024715,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+131-11-3,DIMETHYL PHTHALATE,70,,False,,False,,False,Dimethyl phthalate,,DTXSID3022455,Negative,Negative,,Negative,,,,,,,No Evidence,True,,,,,,,,False
+1310-58-3,POTASSIUM HYDROXIDE,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1310-73-2,SODIUM HYDROXIDE,10,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1313-82-2,SODIUM SULFIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+"1313-99-1, 12035-72-2, 7440-02-0",Nickel compounds,664,RAHC;Known,True,Nickel compounds,True,Nickel compounds,True,Nickel compounds,TR-451;TR-453,DTXSID7025710;DTXSID2025711,Equivocal;Negative,,,Negative,Negative,,,,,,No Evidence,True,Nickel compounds,DTXSID7025710;DTXSID2025711,"ADRENAL_GLAND_MEDULLA,LUNG","ADRENAL_GLAND_MEDULLA,LUNG",,,Evidence,True
+1314-13-2,ZINC OXIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1314-20-1,THORIUM DIOXIDE,2,Known,True,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1314-62-1,VANADIUM OXIDE (5);VANADIUM PENTOXIDE,6,,False,Vanadium pentoxide,True,,False,Vanadium pentoxide,TR-507,DTXSID2023806,Negative,,,Negative,Negative,,,,,,No Evidence,True,Vanadium pentoxide,DTXSID2023806,LUNG,,LUNG,LUNG,Evidence,True
+1317-36-8,LEAD OXIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1319-77-3,CRESOL (MIXED ISOMERS),10,,False,,False,CRESOLS,True,Cresols,TR-550,DTXSID3024364,Negative,,,Negative,Negative,,,,,,No Evidence,True,Cresols,DTXSID3024364,,,,FORESTOMACH,Evidence,True
+13194-48-4,ETHOPROPHOS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+132-64-9,DIBENZOFURAN,189,,False,,False,,False,Dibenzofuran,,DTXSID2021993,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+1321-12-6,NITROTOLUENES,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13233-32-4,RADIUM-224,1,,False,Radium-224 and its decay products,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1330-20-7,"XYLENES;DIMETHYLBENZENE;TOTAL XYLENES, UNSPECIFIED MIXTURE;XYLENE",599,,False,Xylenes,True,"XYLENES, MIXED",True,Xylenes (mixed),TR-327,DTXSID2021446,Negative,,,,,,,,,,No Evidence,True,Xylenes (mixed),DTXSID2021446,,,,,No Evidence,True
+"1332-21-4, 12172-73-5, 12001-29-5, 12001-28-4",Asbestos compounds,67,Known,True,Asbestos compounds,True,,False,,,,,,,,,,,,,,,False,Asbestos compounds,DTXSID0030742;DTXSID5030743;DTXSID5030741,INTESTINES_LARGE,,,,Evidence,True
+1333-74-0,HYDROGEN,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1333-82-0,CHROMIUM TRIOXIDE,1,Known,True,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13347-42-7,DOWICIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1336-21-6,AMMONIUM HYDROXIDE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1336-36-3,PCBs;TOTAL PCBs;POLYCHLORINATED BIPHENYLS,319,RAHC,True,Polychlorinated biphenyls,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1338-23-4,METHYL ETHYL KETONE PEROXIDE,1,,False,,False,,False,Methyl ethyl ketone peroxide,,DTXSID1024671,Positive;Negative,,,Negative,Negative,,,,,,Evidence,True,,,,,,,,False
+1338-24-5,NAPHTHENIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+134-62-3,DEET,1,,False,,False,"DEET (N,N-DIETHYL-META-TOLUAMIDE)",True,"N,N-Diethyl-m-toluamide",,DTXSID2021995,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+1344-28-1,ALUMINUM OXIDE;ALUMINA,10,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13463-40-6,"IRON, PENTACARBONYL- (IRON CARBONYL)",4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13463-67-7,TITANIUM DIOXIDE,1,,False,Titanium dioxide,True,,False,Titanium dioxide,TR-097,DTXSID3021352,Negative,,,Positive,,,,,,,Evidence,True,Titanium dioxide,DTXSID3021352,,,,,No Evidence,True
+13494-80-9,TELLURIUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+135-98-9,SEC-BUTYL BENZENE,18,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13597-99-4,BERYLLIUM NITRATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+139-89-9,N-(2-(BISCARBOXYMETHYLAMINO)ETHYL)-N-(2-HYDROXYETHYL)GLYCINE TRISODIUM SALT,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13966-29-5,URANIUM-234,26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13966-31-9,MANGANESE-54,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13966-32-0,SODIUM-22,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13967-48-1,RUTHENIUM-106,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13967-70-9,CESIUM-134,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13968-55-3,URANIUM-233,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13981-16-3,PLUTONIUM-238,8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13981-50-5,COBALT-57,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13981-52-7,POLONIUM-210,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13982-10-0,PLUTONIUM-242,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+13982-63-3,RADIUM-226,54,,False,Radium-226 and its decay products,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+140-88-5,ETHYL ACRYLATE,1,,False,Ethyl acrylate,True,,False,Ethyl acrylate,TR-259,DTXSID4020583,Negative;Weakly Positive,,,,,,,,,,Weak Evidence,True,Ethyl acrylate,DTXSID4020583,FORESTOMACH,FORESTOMACH,FORESTOMACH,FORESTOMACH,Evidence,True
+1405-87-4,BACITRACIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+141-78-6,ETHYL ACETATE,3,,False,,False,,False,Ethyl acetate,,DTXSID1022001,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+14119-32-5,PLUTONIUM-241,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14119-33-6,PLUTONIUM-240,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14119-34-7,PLUTONIUM-244,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14159-59-2,2-METHYL-3-ETHYLPYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14167-18-1,SALCOMINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+142-59-6,NABAM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+142-82-5,N-HEPTANE;HEPTANE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+142-96-1,BUTYL ETHER (N-),1,,False,,False,,False,Di-n-butyl ether,,DTXSID1022007,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+14255-04-0,LEAD-210,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14269-63-7,THORIUM-230,26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14274-82-9,THORIUM-228,16,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+143-33-9,SODIUM CYANIDE,6,,False,,False,"CYANIDE, SODIUM",True,Sodium cyanide,,DTXSID4024309,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+143-50-0,KEPONE;CHLORDECONE,1,RAHC,True,Chlordecone (Kepone),True,CHLORDECONE,True,Chlordecone,TR-000_(143-50-0),DTXSID1020770,Negative,,,,,,,,,,No Evidence,True,Chlordecone,DTXSID1020770,LIVER,LIVER,LIVER,LIVER,Evidence,True
+14331-83-0,ACTINIUM-228,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14380-75-7,PROMETHIUM-147,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14391-16-3,EUROPIUM-155,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+144-49-0,FLUOROACETIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1461-22-9,TRIBUTYLTIN CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1461-25-2,TETRABUTYLTIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14639-97-5,ZINC AMMONIUM CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14683-23-9,EUROPIUM-152,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14762-75-5,CARBON-14,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14797-65-0,NITRITE,1,,False,,False,NITRITE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+14797-73-0,PERCHLORATE,18,,False,,False,PERCHLORATES,True,,,,,,,,,,,,,,,False,,,,,,,,False
+14859-67-7,RADON-222,9,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+14952-40-0,ACTINIUM-227,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+150-68-5,MONURON,3,,False,Monuron,True,,False,Monuron,TR-266,DTXSID0020311,Negative,,,Positive,,,,,,,Evidence,True,Monuron,DTXSID0020311,"KIDNEY_TUBULAR_CELL,LIVER",,,,Evidence,True
+150-76-5,4-METHOXYPHENOL,8,,False,,False,,False,Hydroquinone monomethyl ether,,DTXSID4020828,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+15046-84-1,IODINE-129,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15065-10-8,THORIUM-234,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15092-94-1,LEAD-212,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+151-50-8,POTASSIUM CYANIDE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15117-48-3,PLUTONIUM-239,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15117-96-1,URANIUM-235,26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15262-20-1,RADIUM-228,25,,False,Radium-228 and its decay products,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+15594-54-4,THORIUM-229,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+156-10-5,p-NITROSODIPHENYLAMINE;N-NITROSODIPHENYLAMINE,63,,False,para-Nitrosodiphenylamine,True,,False,p-Nitrosodiphenylamine,TR-190,DTXSID1021031,Weakly Positive,,,,,,,,,,Weak Evidence,True,p-Nitrosodiphenylamine,DTXSID1021031,LIVER,,LIVER,,Evidence,True
+156-59-2,"cis-1,2-DICHLOROETHYLENE;c-1,2-DCE;1,2-c-DICHLOROETHENE;1,2- C-DICHLOROETHYLENE;1,2-cis-DCE;cis-1,2-DICHLOROETHENE;1,2-c-DCE;cis-1,2-DCE;1,2-cis-DICHLOROETHENE;c-1,2-DICHLOROETHENE;1,2-cis-DICHLOROETHYLENE",385,,False,,False,"1,2-DICHLOROETHENE, CIS-",True,"cis-1,2-Dichloroethylene",,DTXSID2024030,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+156-60-5,"1,2-trans-DICHLOROETHENE;1,2-t-DCE;TRANS-1,2-DICHLOROETHYLENE;t-1,2-DCE;TRANS-1,2-DICHLOROETHENE;TRANS-1,2-DCE;t-1,2-DICHLOROETHYLENE;1,2-trans-DICHLOROETHYLENE;t-1,2-DICHLOROETHENE;1,2-t-DICHLOROETHENE;1,2-trans-DCE",369,,False,,False,"1,2-DICHLOROETHENE, TRANS-",True,"trans-1,2-Dichloroethylene",,DTXSID7024031,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+1563-66-2,CARBOFURAN,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1582-09-8,TRIFLURALIN,1,,False,Trifluralin,True,,False,Trifluralin,TR-034,DTXSID4021395,Positive,,,,,,,,,,Evidence,True,Trifluralin,DTXSID4021395,,,,"FORESTOMACH,LIVER,LUNG",Evidence,True
+15972-60-8,ALACHLOR,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1610-18-0,PROMETON,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1634-04-4,METHYL TERT-BUTYL ETHER,31,,False,Methyl tert-butyl ether,True,METHYL-T-BUTYL ETHER,True,Methyl-t-butyl ether,,DTXSID3020833,Negative,Negative,,,,,,,,,No Evidence,True,,,,,,,,False
+16984-48-8,FLUORIDE,59,,False,"Fluorides (inorganic, used in drinking-water)",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1746-01-6,"2,3,7,8-TETRACHLORODIBENZO-p-DIOXIN (TCDD) TOXICITY EQUIVALENTS (TEq);2,3,7,8-TETRACHLORODIBENZO-p-DIOXIN;2,3,7,8-TETRACHLORODIBENZO-p-DIOXIN (TCDD)",108,Known,True,"2,3,7,8-Tetrachlorodibenzo-para-dioxin",True,"2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN",True,"2,3,7,8-Tetrachlorodibenzo-p-dioxin","TR-201, TR-209, TR-521",DTXSID2021315,Negative,,,,,,,,,,No Evidence,True,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",DTXSID2021315,THYROID_GLAND_FOLLICULAR_CELL,"LIVER,LUNG,ORAL_CAVITY,PANCREAS_ACINAR_CELL,UTERUSCERVIX",LIVER,"LIVER,SUBCUTANEOUS_TISSUE,THYROID_GLAND_FOLLICULAR_CELL",Evidence,True
+1762-95-4,AMMONIUM THIOCYANATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1763-23-1,PERFLUOROOCTANE SULFONIC ACID,1,,False,,False,PERFLUOROOCTANE SULFONIC ACID (PFOS),True,Perfluorooctane sulfonic acid (PFOS),,DTXSID3031864,Negative,Negative,Positive,,,,,,,,Evidence,True,,,,,,,,False
+17924-92-4,ZEARALENONE,1,,False,,False,,False,Zearalenone,TR-235,DTXSID0021460,Negative,,,,,,,,,,No Evidence,True,Zearalenone,DTXSID0021460,,,PITUITARY_GLAND,"LIVER,PITUITARY_GLAND",Evidence,True
+179601-23-1,"m,p-XYLENE",15,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+"18540-29-9, 7789-12-0, 7778-50-9, 13007-92-6, 7775-11-3, 7778-50-9",Chromium (VI) compounds,128,Known,True,Chromium (VI) compounds,True,Chromium (VI) compounds,True,Chromium (VI) compounds,TR-546,DTXSID6024830;DTXSID5025948;DTXSID6032061;DTXSID7032056,Positive;Negative,,,Equivocal;Positive;Negative,Negative,,,,,,Evidence,True,Chromium (VI) compounds,DTXSID6032061,ORAL_CAVITY,ORAL_CAVITY,INTESTINES_SMALL,INTESTINES_SMALL,Evidence,True
+189-64-0,"DIBENZO[A,H]PYRENE",2,RAHC,True,"Dibenzo[a,h]pyrene",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+191-24-2,"BENZO(GHI)PERYLENE;1,12-BENZOPERYLENE",233,,False,Benzo[ghi]perylene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+191-26-4,ANTHANTHRENE,3,,False,Anthanthrene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+1912-24-9,ATRAZINE,17,,False,Atrazine,True,ATRAZINE,True,Atrazine,,DTXSID9020112,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+1918-00-9,DICAMBA,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+192-65-4,"DIBENZO[A,E]PYRENE",1,RAHC,True,"Dibenzo[a,e]pyrene",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+192-97-2,BENZO[E]PYRENE,3,,False,Benzo[e]pyrene,True,,False,Benzo(e)pyrene,,DTXSID3023764,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+1929-77-7,VERNOLATE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+193-39-5,"INDENO(1,2,3-CD)PYRENE",367,RAHC,True,"Indeno[1,2,3-cd]pyrene",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+19406-51-0,"4-AMINO-2,6-DINITROTOLUENE",8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+19408-74-3,"1,2,3,7,8,9-HEXACHLORODIBENZO-p-DIOXIN (HxCDD)",3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2008-41-8,BUTYLATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+203-33-8,BENZO[A]FLUORANTHENE,6,,False,Benzo[a]fluoranthene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2032-65-7,METHIOCARB,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+205-82-3,BENZO[J]FLUORANTHENE,5,RAHC,True,Benzo[j]fluoranthene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+205-99-2,"BENZO(B)FLUORANTHENE;3,4-BENZOFLUORANTHENE",441,RAHC,True,Benzo[b]fluoranthene,True,,False,Benzo(b)fluoranthene,,DTXSID0023907,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+206-44-0,FLUORANTHENE,345,,False,Fluoranthene,True,FLUORANTHENE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+207-08-9,"11,12-BENZOFLUORANTHENE;BENZO(K)FLUORANTHENE",336,RAHC,True,Benzo[k]fluoranthene,True,,False,Benzo(k)fluoranthene,,DTXSID0023909,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+208-96-8,ACENAPHTHYLENE,170,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2104-64-5,EPN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+21087-64-9,METRIBUZIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+21725-46-2,CYANAZINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+218-01-9,CHRYSENE,383,,False,Chrysene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+21908-53-2,MERCURIC OXIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2212-67-1,MOLINATE;ORDRAM (MOLINATE),3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+224-41-9,"DIBENZ[A,J]ANTHRACENE",1,,False,"Dibenz[a,j]anthracene",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+226-36-8,"DIBENZ[A,H]ACRIDINE",1,RAHC,True,"Dibenz[a,h]acridine",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+23135-22-0,OXAMYL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2385-85-5,MIREX,7,RAHC,True,Mirex,True,MIREX,True,Mirex,TR-313,DTXSID7020895,Negative,,,,,,,,,,No Evidence,True,Mirex,DTXSID7020895,"ADRENAL_GLAND_MEDULLA,KIDNEY_TRANSITIONAL_CELL,LIVER","HEMATOPOIETIC_SYSTEM,LIVER",,,Evidence,True
+25154-54-5,DINITROBENZOL;DINITROBENZENE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25155-15-1,METHYLPROPYLBENZENE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25167-82-2,TRICHLOROPHENOLS,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25321-14-6,DINITROTOLUENE (MIXED ISOMERS),5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25321-22-6,DICHLOROBENZENE (MIXED ISOMERS),23,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25340-17-4,DIETHYL BENZENE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25376-45-8,DIAMINOTOLUENE (MIXED ISOMERS),1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2540-82-1,FORMOTHION,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25551-13-7,TRIMETHYLBENZENE,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25551-28-4,NAPHTHALENE DIISOCYANATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+25639-42-3,METHYLCYCLOHEXANOL ALL ISOMER,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2587-90-8,"PHOSPHOROTHIOIC ACID, 0,0-DIMETHYL-5-(2-(M",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+26264-09-5,CHLOROBENZOIC ACID,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+26471-62-5,TOLUENE DIISOCYANATE (MIXED ISOMERS),1,RAHC,True,Toluene diisocyanates,True,TOLUENE DIISOCYANATE (TDI),True,"2,4- & 2,6-Toluene diisocyanate",TR-251,DTXSID0024341,Positive,,,,,,,,,,Evidence,True,"2,4- & 2,6-Toluene diisocyanate",DTXSID0024341,"PANCREAS_ACINAR_CELL,SUBCUTANEOUS_TISSUE","LIVER,MAMMARY_GLAND,PANCREAS_ISLET_CELL,SUBCUTANEOUS_TISSUE",,"LIVER,VASCULAR_SYSTEM_UNSPECIFIED",Evidence,True
+26628-22-8,SODIUM AZIDE,1,,False,,False,,False,Sodium azide,TR-389,DTXSID8020121,Positive,,,,,,,,,,Evidence,True,Sodium azide,DTXSID8020121,,,,,No Evidence,True
+26638-19-7,DICHLOROPROPANE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+2691-41-0,HMX,17,,False,,False,HMX (CYCLOTETRAMETHYLENE TETRANITRAMINE),True,,,,,,,,,,,,,,,False,,,,,,,,False
+275-51-4,AZULENE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+287-92-3,CYCLOPENTANE,1,,False,,False,,False,Cyclopentane,,DTXSID6024886,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+2921-88-2,CHLORPYRIFOS,2,,False,,False,CHLORPYRIFOS,True,Chlorpyrifos (Dursban),,DTXSID4020458,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+298-00-0,METHYL PARATHION,8,,False,Methyl parathion,True,METHYL PARATHION,True,Methyl parathion,TR-157,DTXSID1020855,Positive,,,,,,,,,,Evidence,True,Methyl parathion,DTXSID1020855,,,,,No Evidence,True
+298-02-2,PHORATE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+298-03-3,DEMETON-O,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+298-04-4,DISULFOTON;DISYSTON,5,,False,,False,DISULFOTON,True,,,,,,,,,,,,,,,False,,,,,,,,False
+298-81-7,8-METHOXYPSORALEN,1,Known,True,Methoxsalen (8-methoxypsoralen) plus ultraviolet A radiation,True,,False,8-Methoxypsoralen,TR-359,DTXSID8020830,Positive,,,Equivocal,,,,,,,Evidence,True,8-Methoxypsoralen,DTXSID8020830,"KIDNEY_TUBULAR_CELL,LUNG,SUBCUTANEOUS_TISSUE,ZYMBAL_GLAND",,,,Evidence,True
+299-84-3,RONNELL,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+300-76-5,NALED,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+301-04-2,LEAD ACETATE,4,,False,,False,,False,Lead(2+) acetate,,DTXSID6020773,Negative,,,Negative,,,,,,,No Evidence,True,,,,,,,,False
+302-01-2,HYDRAZINE,2,RAHC,True,Hydrazine,True,HYDRAZINE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+30402-14-3,TETRACHLORODIBENZOFURAN (TCDF),4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+30402-15-4,PENTACHLORODIBENZOFURAN (PeCDF),2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+30525-89-4,PARAFORMALDEHYDE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+30560-19-1,ACEPHATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+309-00-2,ALDRIN,172,,False,"Aldrin (see Dieldrin, and aldrin metabolized to dieldrin);Dieldrin, and aldrin metabolized to dieldrin",True,ALDRIN,True,Aldrin,TR-021,DTXSID8020040,Negative,,,,,,,,,,No Evidence,True,Aldrin,DTXSID8020040,,,LIVER,,Evidence,True
+314-40-9,BROMACIL,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+319-84-6,ALPHA-HCCH;ALPHA-HEXACHLOROCYCLOHEXANE;A-HCCH;A-BENZENE HEXACHLORIDE;A-HEXACHLOROCYCLOHEXANE;A-BHC;ALPHA-BENZENE HEXACHLORIDE;ALPHA-BHC,135,RAHC,True,,False,"HEXACHLOROCYCLOHEXANE, ALPHA-",True,,,,,,,,,,,,,,,False,,,,,,,,False
+319-85-7,BETA-BHC;B-HEXACHLOROCYCLOHEXANE;B-HCCH;B-BHC;BETA-HEXACHLOROCYCLOHEXANE;BETA-BENZENE HEXACHLORIDE;B-BENZENE HEXACHLORIDE;BETA-HCCH,137,RAHC,True,,False,"HEXACHLOROCYCLOHEXANE, BETA-",True,,,,,,,,,,,,,,,False,,,,,,,,False
+319-86-8,D-BHC;D-BENZENE HEXACHLORIDE;DELTA-BHC;DELTA-HEXACHLOROCYCLOHEXANE;D-HCCH;D-HEXACHLOROCYCLOHEXANE;DELTA-BENZENE HEXACHLORIDE,97,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+32534-95-5,"2,4,5-TP ACID ESTER",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+3268-87-9,"1,2,3,4,6,7,8,9-OCTACHLORODIBENZO-p-DIOXIN;OCTACHLORODIBENZO-p-DIOXIN (OCDD)",11,,False,,False,,False,Octachlorodibenzodioxin (OCDD),,DTXSID4025799,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+330-54-1,DIURON,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+330-55-2,LINURON,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+33213-65-9,ENDOSULFAN II;BETA-ENDOSULFAN,68,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+333-41-5,DIAZINON,5,,False,Diazinon,True,DIAZINON,True,Diazinon,TR-137,DTXSID9020407,Negative,,,,,,,,,,No Evidence,True,Diazinon,DTXSID9020407,,,,,No Evidence,True
+335-67-1,PERFLUOROOCTANOIC ACID (PFOA),1,,False,Perfluorooctanoic acid (PFOA),True,PERFLUOROOCTANOIC ACID (PFOA),True,Perfluorooctanoic acid (PFOA),TR-598,DTXSID8031865,Equivocal,Positive,Negative,,,,Negative,,,,Evidence,True,Perfluorooctanoic acid (PFOA),DTXSID8031865,"LIVER,PANCREAS_ACINAR_CELL","LIVER,PANCREAS_ACINAR_CELL,UTERUS",,,Evidence,True
+3351-30-2,4-METHYLCHRYSENE,2,,False,4-Methylchrysene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+34465-46-8,HEXACHLORODIBENZO-p-DIOXINS (HxCDD);HEXACHLORODIBENZODIOXIN,10,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+35421-08-0,4-CHLORO-3-METHYLPHENOL,44,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+35572-78-2,"2-AMINO-4,6-DINITROTOLUENE",6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+35822-46-9,"1,2,3,4,6,7,8-HEPTACHLORODIBENZO-p-DIOXIN;1,2,3,4,6,7,8-HEPTACHLORODIBENZO-p-DIOXIN (HpCDD)",17,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+36088-22-9,PENTACHLORODIBENZO-p-DIOXIN (PeCDD),3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+3615-21-2,"BENZIMIDAZOL,4,5-DICHLORO-2-(TRIFLUOROMETHYL)-",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+36355-01-8,HBB,2,RAHC,True,,False,POLYBROMINATED BIPHENYLS (PBBS),True,Hexabromobiphenyl,,DTXSID3025382,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+36643-28-4,TRIBUTYLTIN ION,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+3689-24-5,SULFOTEP,1,,False,,False,,False,Tetraethyldithiopyrophosphate,,DTXSID7024328,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+3778-73-2,IFOSFAMIDE,1,,False,Isophosphamide,True,,False,,,,,,,,,,,,,,,False,Isophosphamide,DTXSID7020760,,"MAMMARY_GLAND,UTERUSCERVIX",,HEMATOPOIETIC_SYSTEM,Evidence,True
+37871-00-4,HEPTACHLORODIBENZO-p-DIOXINS (HpCDD),5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+39001-02-0,OCTACHLORODIBENZOFURAN (OCDF),5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+39227-28-6,"1,2,3,4,7,8-HEXACHLORODIBENZO-p-DIOXIN",5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+39638-32-9,BIS(2-CHLOROISOPROPYL) ETHER,20,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+39765-80-5,trans-NONACHLOR,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+39801-14-4,PHOTOMIREX,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+40321-76-4,"1,2,3,7,8-PENTACHLORODIBENZO-p-DIOXIN",6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+41903-57-5,TETRACHLORODIBENZO-p-DIOXINS (TCDD),7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+420-04-2,CYANAMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+4342-36-3,TRIBUTYLTIN BENZOATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+463-51-4,KETENE; ETHENONE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+465-73-6,ISODRIN,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+4680-78-8,C.I. ACID GREEN 3,1,,False,Guinea Green B,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+471-34-1,CALCIUM CARBONATE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+4766-57-8,TBOS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+479-45-8,TETRYL,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+4835-11-4,"HEXAMETHYLENEDIAMINE, N,N-DIBUTYL-",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+488-23-3,"1,2,3,4-TETRAMETHYLBENZENE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+494-03-1,"N,N-BIS(2-CHLOROETHYL)-2-NAPHTHYLAMINE (CHLORNAPAZINE)",2,,False,"Chlornaphazine;N,N-Bis(2-chloroethyl)-2-naphthylamine (see Chlornaphazine)",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+497-19-8,SODIUM CARBONATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+50-00-0,FORMALDEHYDE,5,Known,True,Formaldehyde,True,FORMALDEHYDE,True,Formaldehyde,,DTXSID7020637,Positive;Weakly Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+50-29-3,"DICHLORODIPHENYLTRICHLOROETHANE;DDT (DICHLORODIPHENYLTRICHLOROETHANE);P,P-DDT;4,4-DDT;DDT",314,RAHC,True,"DDT (4,4'-dichlorodiphenyltrichloroethane)",True,"DDT, P,P'-",True,Dichlorodiphenyltrichloroethane (DDT),TR-131,DTXSID4020375,Negative,,,,,,,,,,No Evidence,True,Dichlorodiphenyltrichloroethane (DDT),DTXSID4020375,,,,,No Evidence,True
+50-32-8,"3,4-BENZO-PYRENE;BENZO[A]PYRENE",521,RAHC,True,Benzo[a]pyrene,True,,False,Benzo(a)pyrene,,DTXSID2020139,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+502-39-6,METHYLMERCURIC DICYANAMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+504-29-0,2-AMINOPYRIDINE,1,,False,,False,,False,2-Aminopyridine,,DTXSID0024505,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+505-29-3,"1,4-DITHIANE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+505-60-2,MUSTARD GAS,2,Known,True,Sulfur mustard;Mustard gas (see Sulfur mustard),True,SULFUR MUSTARD,True,,,,,,,,,,,,,,,False,,,,,,,,False
+506-64-9,SILVER CYANIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+50782-69-9,VX,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+51-28-5,"2,4-DINITROPHENOL",23,,False,,False,"2,4-DINITROPHENOL",True,"2,4-Dinitrophenol",,DTXSID0020523,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+510-15-6,CHLOROBENZILATE,2,,False,Chlorobenzilate,True,,False,Chlorobenzilate,TR-075,DTXSID9020299,Negative,,,,,,,,,,No Evidence,True,Chlorobenzilate,DTXSID9020299,,,LIVER,LIVER,Evidence,True
+51207-31-9,"2,3,7,8-TETRACHLORODIBENZOFURAN",15,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+51218-45-2,METOLACHLOR,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+5216-25-1,"P-ALPHA,ALPHA,ALPHA-TETRACHLOROTOLUENE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+526-73-8,"1,2,3-TRIMETHYLBENZENE",6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+528-29-0,ortho-DINITROBENZENE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+529-21-5,3-ETHYL-4-METHYL PYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+53-70-3,"1,2,5,6-DIBENZATHRACENE;DIBENZO(A,H)ANTHRACENE",313,RAHC,True,"Dibenz[a,h]anthracene",True,,False,"Dibenz(a,h)anthracene",,DTXSID9020409,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+53-96-3,2-ACETYLAMINOFLUORENE,1,RAHC,True,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+532-27-4,2-CHLOROACETOPHENONE,1,,False,,False,,False,2-Chloroacetophenone (CN),TR-379,DTXSID9020293,Negative,,,,,,,,,,No Evidence,True,2-Chloroacetophenone (CN),DTXSID9020293,,,,,No Evidence,True
+534-52-1,"4,6-DINITRO-ortho-METHYLPHENOL;4,6-DINITRO-O-CRESOL",11,,False,,False,"4,6-DINITRO-O-CRESOL",True,"4,6-Dinitro-o-cresol",,DTXSID1022053,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+53469-21-9,AROCLOR-1242,92,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+53494-70-5,ENDRIN KETONE,67,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+536-75-4,4-ETHYL PYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+536-78-7,3-ETHYL PYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+540-59-0,"1,2-DICHLOROETHENE;ACETYLENE DICHLORIDE;1,2-DCE;1,2-DICHLOROETHYLENE",371,,False,,False,,False,"cis & trans 1,2-Dichloroethylene",,DTXSID8024991,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+540-84-1,"2,2,4-TRIMETHYLPENTANE",2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+541-09-3,URANYL ACETATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+541-25-3,LEWISITE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+541-41-3,ETHYL CHLOROFORMATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+541-73-1,"1,3-DICHLOROBENZENE",92,,False,meta-Dichlorobenzene,True,"1,3-DICHLOROBENZENE",True,"1,3-Dichlorobenzene",,DTXSID6022056,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+542-62-1,BARIUM CYANIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+542-75-6,"1,3-DICHLOROPROPENE;1,3-DICHLOROPROPYLENE",16,RAHC,True,"1,3-Dichloropropene (technical-grade)",True,"1,3-DICHLOROPROPENE",True,"1,3-Dichloropropene (Telone II)",TR-269,DTXSID1022057,Positive,,,Positive;Negative,,,,,,,Evidence,True,"1,3-Dichloropropene (Telone II)",DTXSID1022057,"FORESTOMACH,LIVER",FORESTOMACH,,"FORESTOMACH,LUNG,URINARY_BLADDER",Evidence,True
+542-88-1,BIS(CHLOROMETHYL) ETHER,3,Known,True,Bis(chloromethyl)ether; chloromethyl methyl ether (technical-grade),True,BIS(CHLOROMETHYL)ETHER (BCME),True,,,,,,,,,,,,,,,False,,,,,,,,False
+54548-50-4,p-CHLORO-m-CRESOL;4-CHLORO-3-CRESOL,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+55-18-5,N-NITROSODIETHYLAMINE,1,RAHC,True,N-Nitrosodiethylamine,True,,False,N-Nitrosodiethylamine,,DTXSID2021028,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+55-38-9,FENTHION,1,,False,,False,,False,Fenthion,TR-103,DTXSID8020620,Negative;Weakly Positive,,,,,,,,,,Weak Evidence,True,Fenthion,DTXSID8020620,,,,,No Evidence,True
+55-63-0,NITROGLYCERIN,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+552-30-7,TRIMELLITIC ANHYDRIDE,1,,False,,False,,False,Trimellitic anhydride,,DTXSID7026235,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+554-84-7,1-METHYL-3-NITROBENZENE,2,,False,,False,,False,m-Nitrophenol,,DTXSID2025765,Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+557-21-1,ZINC CYANIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+56-23-5,CARBON TETRACHLORIDE,277,RAHC,True,Carbon tetrachloride,True,CARBON TETRACHLORIDE,True,Carbon tetrachloride,,DTXSID8020250,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+56-38-2,PARATHION,9,,False,Parathion,True,PARATHION,True,Parathion,TR-070,DTXSID7021100,Negative;Weakly Positive,,,,,,,,,,Weak Evidence,True,Parathion,DTXSID7021100,,,,,No Evidence,True
+56-49-5,3-METHYLCHOLANTHRENE,1,,False,,False,,False,3-Methylcholanthrene,,DTXSID0020862,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+56-55-3,"BENZO[A]ANTHRACENE;1,2-BENZANTHRACENE",443,RAHC,True,Benz[a]anthracene,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+56-72-4,COUMAPHOS,2,,False,,False,,False,Coumaphos,TR-096,DTXSID2020347,Negative,,,,,,,,,,No Evidence,True,Coumaphos,DTXSID2020347,,,,,No Evidence,True
+563-12-2,ETHION;NIALATE,5,,False,,False,ETHION,True,,,,,,,,,,,,,,,False,,,,,,,,False
+57-12-5,CYANIDE,310,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+57-13-6,UREA,1,,False,,False,,False,Urea,,DTXSID4021426,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+57-74-9,GAMMA-CHLORDANE;ALPHA-CHLORDANE;CHLORDANE,221,,False,Chlordane,True,,False,Chlordane (analytical grade),TR-008,DTXSID7020267,Negative,,,,,,,,,,No Evidence,True,Chlordane (analytical grade),DTXSID7020267,,,LIVER,LIVER,Evidence,True
+57117-31-4,"2,3,4,7,8-PENTACHLORODIBENZOFURAN (PeCDF)",5,,False,"2,3,4,7,8-Pentachlorodibenzofuran",True,"2,3,4,7,8-PENTACHLORO­DIBENZOFURAN",True,,,,,,,,,,,,,,,False,"2,3,4,7,8-Pentachlorodibenzofuran",DTXSID7030066,,"LIVER,LUNG,ORAL_CAVITY,PANCREAS_ACINAR_CELL,UTERUSCERVIX",,,Evidence,True
+57117-41-6,"1,2,3,7,8-PENTACHLORODIBENZOFURAN",5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+57117-44-9,"1,2,3,6,7,8-HEXACHLORODIBENZOFURAN (HxCDF)",2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+578-94-9,DIPHENYLAMINECHLOROARSINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+58-89-9,LINDANE;GAMMA-BHC;GAMMA-BENZENE HEXACHLORIDE;HEXACHLOROCYCLOHEXANE (GAMMA ISOMER),133,RAHC,True,Lindane (see also Hexachlorocyclohexanes),True,"HEXACHLOROCYCLOHEXANE, GAMMA-",True,Lindane,TR-014,DTXSID2020686,Negative,,,,,,,,,,No Evidence,True,Lindane,DTXSID2020686,,,,,No Evidence,True
+581-42-0,"2,6-DIMETHYLNAPHTHALENE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+583-58-4,"3,4-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+583-61-9,"2,3-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+589-93-5,"2,5-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+591-22-0,"3,5-LUTIDINE",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+591-78-6,2-HEXANONE;MBK;METHYL N-BUTYL KETONE,97,,False,,False,2-HEXANONE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+593-74-8,DIMETHYLMERCURY,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+60-29-7,ETHYL ETHER;DIETHYL ETHER,11,,False,,False,,False,Ethyl ether,,DTXSID3021720,Equivocal;Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+60-51-5,DIMETHOATE,1,,False,,False,,False,Dimethoate,TR-004,DTXSID7020479,Positive,,,,,,,,,,Evidence,True,Dimethoate,DTXSID7020479,,,,,No Evidence,True
+60-57-1,DIELDRIN,264,,False,"Dieldrin (see Dieldrin, and aldrin metabolized to dieldrin);Dieldrin, and aldrin metabolized to dieldrin",True,DIELDRIN,True,Dieldrin,"TR-021, TR-022",DTXSID9020453,Negative,,,,,,,,,,No Evidence,True,Dieldrin,DTXSID9020453,,,,,No Evidence,True
+606-20-2,"2,6-DINITROTOLUENE;2,6-DNT",43,,False,"2,6-Dinitrotoluene",True,"2,6-DINITROTOLUENE",True,"2,6-Dinitrotoluene",,DTXSID5020528,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+608-93-5,PENTACHLOROBENZENE,11,,False,,False,,False,Pentachlorobenzene,,DTXSID7024247,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+61788-33-8,POLYCHLORINATED TERPHENYLS,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+62-44-2,PHENACETIN,1,RAHC,True,Phenacetin,True,,False,Phenacetin,,DTXSID1021116,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+62-53-3,ANILINE,21,,False,Aniline (see also Aniline hydrochloride),True,,False,Aniline,,DTXSID8020090,Negative,,,Positive,Positive,,,,,,Evidence,True,,,,,,,,False
+62-55-5,THIOACETAMIDE,1,RAHC,True,Thioacetamide,True,,False,Thioacetamide,,DTXSID9021340,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+62-73-7,DICHLORVOS,1,,False,Dichlorvos,True,DICHLORVOS,True,Dichlorvos,"TR-010, TR-342",DTXSID5020449,Positive,Negative,,,,,,,,,Evidence,True,Dichlorvos,DTXSID5020449,"HEMATOPOIETIC_SYSTEM,PANCREAS_ACINAR_CELL",,FORESTOMACH,FORESTOMACH,Evidence,True
+62-74-8,SODIUM FLUOROACETATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+62-75-9,NITROSODIMETHYLAMINE;N-NITROSODIMETHYLAMINE,14,RAHC,True,N-Nitrosodimethylamine,True,,False,N-Nitrosodimethylamine,,DTXSID7021029,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+621-64-7,N-NITROSODI-N-PROPYLAMINE,45,RAHC,True,N-Nitrosodi-n-propylamine,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+624-83-9,METHYL ISOCYANATE,1,,False,,False,,False,Methyl isocyanate,,DTXSID1023786,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+63-25-2,CARBARYL,3,,False,Carbaryl,True,,False,Carbaryl,,DTXSID9020247,,,,,,,Positive,,,,Evidence,True,,,,,,,,False
+63-98-9,PHENACEMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+630-20-6,"1,1,1,2-TETRACHLOROETHANE",26,,False,"1,1,1,2-Tetrachloroethane",True,,False,"1,1,1,2-Tetrachloroethane",,DTXSID2021317,Negative,,,Positive,,,,,,,Evidence,True,"1,1,1,2-Tetrachloroethane",DTXSID2021317,,,LIVER,LIVER,Evidence,True
+631-61-8,AMMONIUM ACETATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+634-66-2,"1,2,3,4-TETRACHLOROBENZENE",3,,False,,False,,False,"1,2,3,4-Tetrachlorobenzene",,DTXSID6026088,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+6369-96-6,"2,4,5-T AMINES",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+64-00-6,"PHENOL, 3-(1-METHYLETHYL)-, METHYLCARBAMATE",2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+64-17-5,ETHANOL,6,,False,Ethanol in alcoholic beverages,True,,False,Ethanol,TR-510,DTXSID9020584,Negative,,,,,,,,,,No Evidence,True,Ethanol,DTXSID9020584,,,,,No Evidence,True
+64-18-6,FORMIC ACID,2,,False,,False,,False,Formic acid,,DTXSID2024115,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+64-19-7,ACETIC ACID,3,,False,,False,,False,Acetic acid,,DTXSID5024394,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+640-19-7,FLUOROACETAMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+64091-91-4,4-(N-NITROSOMETHYLAMINO)-1-(3-PYRIDYL)-1-BUTANONE,1,RAHC,True,N'-Nitrosonornicotine (NNN) and 4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone (NNK),True,,False,4-(N-Nitroso-N-methylamino)-1-(3-pyridyl)-1-butanone,,DTXSID3020881,,,,Negative,,,,,,,No Evidence,True,,,,,,,,False
+6423-43-4,PROPYLENE GLYCOL DINITRATE,1,,False,,False,PROPYLENE GLYCOL DINITRATE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+6484-52-2,AMMONIUM NITRATE (SOLUTION),3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+65-85-0,BENZOIC ACID,144,,False,,False,,False,Benzoic acid,,DTXSID6020143,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+6533-73-9,THALLIUM(I) CARBONATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+67-56-1,METHANOL,6,,False,,False,,False,Methanol,,DTXSID2021731,Equivocal;Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+67-63-0,ISOPROPANOL;ISOPROPYL ALCOHOL,11,,False,Isopropyl alcohol,True,,False,Isopropanol,,DTXSID7020762,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+67-64-1,ACETONE,452,,False,,False,ACETONE,True,Acetone,,DTXSID8021482,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+67-66-3,CHLOROFORM;TRICHLOROMETHANE,538,RAHC,True,Chloroform,True,CHLOROFORM,True,Chloroform,TR-000_(67-66-3),DTXSID1020306,Negative,,,Positive,,,,,,,Evidence,True,Chloroform,DTXSID1020306,KIDNEY_TUBULAR_CELL,,LIVER,LIVER,Evidence,True
+67-72-1,HEXACHLOROETHANE,28,RAHC,True,Hexachloroethane,True,HEXACHLOROETHANE,True,Hexachloroethane,"TR-068, TR-361",DTXSID7020689,Negative,,,,,,,,,,No Evidence,True,Hexachloroethane,DTXSID7020689,"ADRENAL_GLAND_MEDULLA,KIDNEY_TUBULAR_CELL",,LIVER,LIVER,Evidence,True
+67653-85-7,"1,2,3,6,7,8-HEXACHLORODIBENZO-p-DIOXIN",6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+67774-32-7,POLYBROMINATED BIPHENYLS (PBB),3,,False,,False,"PBDE, DECABROMINATED",True,Polybrominated biphenyl mixture (Firemaster FF-1),TR-398,DTXSID0021173,,,,Negative,,,,,,,No Evidence,True,Polybrominated biphenyl mixture (Firemaster FF-1),DTXSID0021173,LIVER,LIVER,LIVER,LIVER,Evidence,True
+68-12-2,DIMETHYLFORMAMIDE,1,,False,"N,N-Dimethylformamide",True,,False,Dimethylformamide,,DTXSID6020515,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+68188-88-5,CHLORIDE,67,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+68334-30-5,DIESEL FUEL,16,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+6923-22-4,MONOCROTOPHOS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+69806-50-4,FLUAZIFOP-BUTYL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7005-72-3,4-CHLOROPHENYL PHENYL ETHER,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+70648-26-9,"1,2,3,4,7,8-HEXACHLORODIBENZOFURAN (HxCDF)",3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+71-36-3,1-BUTANOL;N-BUTYL ALCOHOL,3,,False,,False,,False,n-Butanol,,DTXSID1021740,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+71-43-2,BENZENE,846,Known,True,Benzene,True,BENZENE,True,Benzene,TR-289,DTXSID3039242,Negative,,,Positive,Positive;Weakly Positive,,,,,,Evidence,True,Benzene,DTXSID3039242,"ORAL_CAVITY,SKIN,ZYMBAL_GLAND","ORAL_CAVITY,ZYMBAL_GLAND","HARDERIAN_GLAND,HEMATOPOIETIC_SYSTEM,LUNG,PREPUTIAL_GLAND,ZYMBAL_GLAND","HEMATOPOIETIC_SYSTEM,LUNG,MAMMARY_GLAND,OVARY,ZYMBAL_GLAND",Evidence,True
+71-55-6,"1,1,1-TRICHLOROETHANE;1,1,1-TCA",528,,False,"1,1,1-Trichloroethane",True,"1,1,1-TRICHLOROETHANE",True,"1,1,1-Trichloroethane",TR-003,DTXSID0021381,Negative,,,Equivocal;Negative,Negative,,,,,,No Evidence,True,"1,1,1-Trichloroethane",DTXSID0021381,,,,,No Evidence,True
+72-20-8,ENDRIN,122,,False,Endrin,True,ENDRIN,True,Endrin,TR-012,DTXSID6020561,Negative,,,,,,,,,,No Evidence,True,Endrin,DTXSID6020561,,,,,No Evidence,True
+72-43-5,METHOXYCHLOR,72,,False,Methoxychlor,True,METHOXYCHLOR,True,Methoxychlor,TR-035,DTXSID9020827,Negative,,,,,,,,,,No Evidence,True,Methoxychlor,DTXSID9020827,,,,,No Evidence,True
+72-54-8,"P,P-DDD;4,4-DICHLORODIPHENYLDICHLOROETHANE;4,4-DDD;DDD;DICHLORODIPHENYLDICHLOROETHANE;DDD (DICHLORODIPHENYLDICHLOROETHANE)",214,,False,,False,,False,Tetrachlorodiphenylethane,TR-131,DTXSID4020373,Negative,,,,,,,,,,No Evidence,True,Tetrachlorodiphenylethane,DTXSID4020373,,,,,No Evidence,True
+72-55-9,"P,P-DDE;DDE (DICHLORODIPHENYLDICHLOROETHYLENE);DICHLORODIPHENYLDICHLOROETHENE;4,4-DDE;DDE",234,,False,,False,,False,"p,p'-Dichlorodiphenyl dichloroethylene",TR-131,DTXSID9020374,Negative,,,,,,,,,,No Evidence,True,"p,p'-Dichlorodiphenyl dichloroethylene",DTXSID9020374,,,LIVER,LIVER,Evidence,True
+7287-19-6,PROMETRYN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+72918-21-9,"1,2,3,7,8,9-HEXACHLORODIBENZOFURAN (HxCDF)",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+74-82-8,METHANE,24,,False,,False,,False,Methane,,DTXSID8025545,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+74-83-9,METHYL BROMIDE;BROMOMETHANE,35,,False,Methyl bromide,True,BROMOMETHANE,True,Methyl bromide,TR-385,DTXSID8020832,Positive,,,Positive,Positive,,,,,,Evidence,True,,,,,,,,False
+74-86-2,ACETYLENE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+74-87-3,CHLOROMETHANE;METHYL CHLORIDE,162,,False,Methyl chloride,True,CHLOROMETHANE,True,Methyl chloride,,DTXSID0021541,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+74-90-8,HYDROCYANIC ACID;HYDROGEN CYANIDE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+74-93-1,METHANETHIOL;METHYL MERCAPTAN,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+74-97-5,BROMOCHLOROMETHANE,12,,False,,False,,False,Bromochloromethane,,DTXSID4021503,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+74-98-6,PROPANE,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7421-93-4,ENDRIN ALDEHYDE,57,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7429-90-5,ALUMINUM;ALUMINUM (METAL);ALUMINUM (FUME OR DUST),429,,False,,False,ALUMINUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-89-6,IRON,506,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-92-1,"LEAD, INORGANIC;LEAD",991,RAHC,True,Lead,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-93-2,LITHIUM,8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-95-4,MAGNESIUM,221,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-96-5,MANGANESE (UNFILTERED);MANGANESE,687,,False,,False,"MANGANESE, RESPIRABLE",True,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-97-6,MERCURY,592,,False,Mercury and inorganic mercury compounds,True,MERCURY,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-98-7,MOLYBDENUM,46,,False,,False,MOLYBDENUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7439-99-8,NEPTUNIUM;NEPTUNIUM-237,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-00-8,NEODYMIUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-05-3,PALLADIUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-07-5,PLUTONIUM;PLUTONIUM-238,12,,False,Plutonium,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-08-6,POLONIUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-09-7,POTASSIUM;POTASSIUM-40,192,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-14-4,RADIUM,9,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-21-3,SILICON,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-22-4,SILVER,399,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-23-5,SODIUM,227,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-24-6,STRONTIUM,22,,False,,False,STRONTIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-25-7,TANTALUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-26-8,TECHNETIUM-99,9,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-28-0,THALLIUM,352,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-29-1,THORIUM;THORIUM-232,31,,False,Thorium-232 and its decay products,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-31-5,TIN,33,,False,,False,"TIN, INORGANIC",True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-32-6,TITANIUM METAL POWDER,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-33-7,TUNGSTEN METAL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-35-9,AMERICIUM;AMERICIUM-241,12,,False,,False,AMERICIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-36-0,ANTIMONY,505,,False,,False,ANTIMONY,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-39-3,BARIUM,571,,False,,False,"BARIUM, SOLUBLE SALTS",True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-41-7,BERYLLIUM,475,Known,True,Beryllium and beryllium compounds,True,BERYLLIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-42-8,BORON,16,,False,,False,BORON AND COMPOUNDS,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-43-9,CADMIUM,738,Known,True,Cadmium and cadmium compounds,True,CADMIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-46-2,CESIUM,8,,False,,False,CESIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-47-3,"CHROMIUM (III);CHROMIUM, TOTAL;CHROMIUM",838,,False,"Chromium, metallic",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-48-4,COBALT-60;COBALT;COBALT AND COMPOUNDS,322,RAHC,True,Cobalt and cobalt compounds;Cobalt metal without tungsten carbide;Tungsten carbide with cobalt metal (see Cobalt metal with tungsten carbide);Cobalt metal with tungsten carbide,True,COBALT,True,Cobalt,TR-581,DTXSID1031040,Positive,,,Negative,Negative,,,,,,Evidence,True,Cobalt,DTXSID1031040,"ADRENAL_GLAND_MEDULLA,KIDNEY,LUNG,PANCREAS_ISLET_CELL","ADRENAL_GLAND_MEDULLA,LUNG,PANCREAS_ISLET_CELL",LUNG,LUNG,Evidence,True
+7440-50-8,COPPER,666,,False,,False,COPPER,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-51-9,CURIUM;CURIUM-244,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-53-1,EUROPIUM-154,8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-58-6,HAFNIUM,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-61-1,URANIUM-238;URANIUM,46,,False,,False,"URANIUM, SOLUBLE SALTS;URANIUM, INSOLUBLE COMPOUNDS",True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-62-2,VANADIUM (FUME OR DUST);VANADIUM,384,,False,,False,VANADIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-66-4,PLATINUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-66-6,ZINC,710,,False,,False,ZINC,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-67-7,ZIRCONIUM (METAL),3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-69-9,BISMUTH,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-70-2,CALCIUM,201,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7440-74-6,INDIUM,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7446-09-5,SULFUR DIOXIDE,3,,False,Sulfur dioxide,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7446-11-9,SULFUR TRIOXIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7446-14-2,LEAD SULFATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7487-94-7,MERCURY CHLORIDE (2),2,,False,,False,MERCURIC CHLORIDE,True,Mercuric chloride,TR-408,DTXSID5020811,Negative,,,,,,,,,,No Evidence,True,Mercuric chloride,DTXSID5020811,"FORESTOMACH,THYROID_GLAND_FOLLICULAR_CELL",,,,Evidence,True
+75-00-3,CHLOROETHANE;ETHYL CHLORIDE,163,,False,Chloroethane,True,CHLOROETHANE,True,Chloroethane,TR-346,DTXSID1020302,Positive,,,,,,,,,,Evidence,True,Chloroethane,DTXSID1020302,,,,"LIVER,UTERUSCERVIX",Evidence,True
+75-01-4,VINYL CHLORIDE,616,Known,True,Vinyl chloride,True,VINYL CHLORIDE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+75-05-8,ACETONITRILE,6,,False,,False,,False,Acetonitrile,TR-447,DTXSID7020009,Negative,,,Positive,Negative,,,,,,Evidence,True,Acetonitrile,DTXSID7020009,,,,,No Evidence,True
+75-08-1,ETHYL MERCAPTAN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-09-2,METHYLENE CHLORIDE;DICHLOROMETHANE,555,RAHC,True,Dichloromethane (Methylene chloride),True,METHYLENE CHLORIDE,True,Methylene chloride,TR-306,DTXSID0020868,Positive;Negative,,,,,,,,,,Evidence,True,Methylene chloride,DTXSID0020868,MAMMARY_GLAND,MAMMARY_GLAND,"LIVER,LUNG","LIVER,LUNG",Evidence,True
+75-15-0,CARBON DISULFIDE,226,,False,,False,CARBON DISULFIDE,True,Carbon disulfide,,DTXSID6023947,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+75-18-3,DIMETHYL SULFIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-20-7,CALCIUM CARBRIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-21-8,ETHYLENE OXIDE,1,Known,True,Ethylene oxide,True,ETHYLENE OXIDE,True,,,,,,,,,,,,,,,False,Ethylene oxide,DTXSID0020600,,,"HARDERIAN_GLAND,LUNG","HARDERIAN_GLAND,HEMATOPOIETIC_SYSTEM,LUNG,MAMMARY_GLAND,UTERUSCERVIX",Evidence,True
+75-25-2,BROMOFORM,46,,False,Bromoform,True,BROMOFORM,True,Tribromomethane,TR-350,DTXSID1021374,Equivocal;Positive;Negative,,,Negative,,,,,,,Evidence,True,Tribromomethane,DTXSID1021374,INTESTINES_LARGE,INTESTINES_LARGE,,,Evidence,True
+75-27-4,BROMODICHLOROMETHANE;DICHLOROBROMOMETHANE,108,RAHC,True,Bromodichloromethane,True,BROMODICHLOROMETHANE,True,Bromodichloromethane,"TR-321, TR-532",DTXSID1020198,Negative,,,Equivocal;Negative,Equivocal;Negative,,,,,,No Evidence,True,Bromodichloromethane,DTXSID1020198,"INTESTINES_LARGE,KIDNEY_TUBULAR_CELL","INTESTINES_LARGE,KIDNEY_TUBULAR_CELL",KIDNEY_TUBULAR_CELL,LIVER,Evidence,True
+75-34-3,"1,1-DICHLOROETHANE;1,1-DCA",468,,False,,False,,False,"1,1-Dichloroethane",TR-066,DTXSID1020437,Negative,,,,,,,,,,No Evidence,True,"1,1-Dichloroethane",DTXSID1020437,,,,,No Evidence,True
+75-35-4,"1,1-DICHLOROETHYLENE;1,1-DCE;1,1-DICHLOROETHENE;VINYLIDINE CHLORIDE",539,,False,Vinylidene chloride,True,"1,1-DICHLOROETHENE",True,Vinylidene Chloride,TR-582,DTXSID8021438,Negative,,,Negative,Negative,,,,,,No Evidence,True,Vinylidene Chloride,DTXSID8021438,"ALL_ORGANS,KIDNEY,NASAL_CAVITY","ALL_ORGANS,THYROID_GLAND_CCELL","KIDNEY,LIVER","ALL_ORGANS,INTESTINES_SMALL,LIVER,LUNG",Evidence,True
+75-43-4,DICHLOROMONOFLUOROMETHANE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-44-5,PHOSGENE,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-50-3,TRIMETHYLAMINE,1,,False,,False,,False,Trimethylamine,,DTXSID2026238,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+75-56-9,PROPYLENE OXIDE,1,RAHC,True,Propylene oxide,True,,False,"1,2-Propylene oxide",TR-267,DTXSID5021207,Positive,,,Negative,,,,,,,Evidence,True,"1,2-Propylene oxide",DTXSID5021207,NASAL_CAVITY,NASAL_CAVITY,VASCULAR_SYSTEM_NASAL_CAVITY,VASCULAR_SYSTEM_NASAL_CAVITY,Evidence,True
+75-60-5,CACODYLIC ACID,1,,False,Dimethylarsinic acid,True,DIMETHYLARSINIC ACID (DMA),True,Dimethylarsinic acid,,DTXSID7020508,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+75-61-6,DIBROMODIFLUOROMETHANE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+75-65-0,T-BUTYL ALCOHOL;TERT-BUTYL ALCOHOL,2,,False,,False,,False,tert-Butyl alcohol,TR-436,DTXSID8020204,Negative,Negative,,Negative,Negative,,,,,,No Evidence,True,tert-Butyl alcohol,DTXSID8020204,KIDNEY_TUBULAR_CELL,,,THYROID_GLAND_FOLLICULAR_CELL,Evidence,True
+75-69-4,TRICHLOROFLUOROMETHANE;FREON-11,93,,False,,False,,False,Trichlorofluoromethane,TR-106,DTXSID5021384,Negative,,,,,,,,,,No Evidence,True,Trichlorofluoromethane,DTXSID5021384,,,,,No Evidence,True
+75-71-8,CFC-12;DICHLORODIFLUOROMETHANE;FREON-12,47,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7553-56-2,IODINE,3,,False,,False,IODIDE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+759-94-4,EPTC,3,,False,,False,,False,S-ethyl dipropylthiocarbamate,,DTXSID1024091,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+76-01-7,PENTACHLOROETHANE,10,,False,Pentachloroethane,True,,False,Pentachloroethane,,DTXSID7021104,Negative,,,Negative,,,,,,,No Evidence,True,Pentachloroethane,DTXSID7021104,,,LIVER,LIVER,Evidence,True
+76-06-2,CHLOROPICRIN,1,,False,,False,,False,Chloropicrin,TR-065,DTXSID0020315,Positive,,,,,,,,,,Evidence,True,Chloropicrin,DTXSID0020315,,,,,No Evidence,True
+76-12-0,FREON-112,2,,False,,False,,False,"1,2-Difluoro-1,1,2,2-tetrachloroethane",,DTXSID5026091,Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+76-13-1,"FREON-113;CHLORINATED FLUOROCARBON (FREON 113);1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE",49,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+76-14-2,"1,2-DICHLOROTETRAFLUOROETHANE;FLUOROCARBON 114;FREON-114",3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+76-22-2,CAMPHOR,1,,False,,False,,False,DL-Camphor,,DTXSID5030955,,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+76-44-8,HEPTACHLOR,170,,False,Heptachlor,True,HEPTACHLOR,True,Heptachlor,TR-009,DTXSID3020679,Negative,,,,,,,,,,No Evidence,True,Heptachlor,DTXSID3020679,,,LIVER,LIVER,Evidence,True
+76-93-7,BENZILIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+761-31-3,"1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE",11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7631-86-9,SILICA,1,,False,"Silica, amorphous",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7631-89-2,SODIUM ARSENATE (AsH3O4.xNa),1,Known,True,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7631-99-4,SODIUM NITRATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7632-00-0,SODIUM NITRITE,4,,False,,False,,False,Sodium nitrite,TR-495,DTXSID0020941,Positive,Negative,,Negative,Negative,,,,,,Evidence,True,Sodium nitrite,DTXSID0020941,,,,,No Evidence,True
+7646-85-7,ZINC CHLORIDE FUME,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7647-01-0,HYDROCHLORIC ACID,13,,False,Hydrochloric acid,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7664-38-2,PHOSPHORIC ACID,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7664-39-3,HYDROFLUORIC ACID,2,,False,,False,HYDROGEN FLUORIDE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7664-41-7,AMMONIA,43,,False,,False,AMMONIA,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7664-93-9,SULFURIC ACID;SULFUR ACID,25,Known,True,Strong-inorganic-acid mists containing sulfuric acid (see Acid mists),True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7681-52-9,SODIUM HYPOCHLORITE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7697-37-2,NITRIC ACID,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+77-47-4,HEXACHLOROCYCLOPENTADIENE,12,,False,,False,HEXACHLOROCYCLOPENTADIENE,True,Hexachlorocyclopentadiene,TR-437,DTXSID2020688,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+77-73-6,DICYCLOPENTADIENE,2,,False,,False,,False,Dicyclopentadiene,,DTXSID5025023,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+77-81-6,TABUN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7704-34-9,SULFUR,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7705-08-0,FERRIC CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7719-12-2,PHOSPHORUS TRICHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7720-78-7,FERROUS SULFATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7722-64-7,POTASSIUM PERMANGANATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7722-84-1,HYDROGEN PEROXIDE (CONC > 52%),2,,False,Hydrogen peroxide,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7726-95-6,BROMINE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7727-37-9,NITROGEN,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7738-94-5,CHROMIC ACID,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7757-79-1,POTASSIUM NITRATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7757-82-6,SODIUM SULFATE (SOLUTION),3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7758-94-3,FERROUS CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7758-98-7,CUPRIC SULFATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7761-88-8,SILVER NITRATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+"7778-39-4, 1327-53-3, 1303-00-0, 64436-13-1, 7440-38-2",Arsenic compounds,989,Known,True,Arsenic compounds,True,Arsenic compounds,True,Arsenic compounds,TR-492,DTXSID2023779,Negative,,,Negative,Negative,,,,,,No Evidence,True,Arsenic compounds,DTXSID2023779,,"ADRENAL_GLAND_MEDULLA,HEMATOPOIETIC_SYSTEM,LUNG",,,Evidence,True
+7778-54-3,CALCIUM HYPOCHLORITE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+778-61-4,NICKEL SULFATE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7782-41-4,FLUORINE,2,,False,,False,FLUORINE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7782-49-2,SELENIUM,382,,False,Selenium and selenium compounds,True,SELENIUM,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7782-50-5,CHLORINE,6,,False,,False,CHLORINE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+7783-06-4,HYDROGEN SULFIDE,11,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7784-40-9,LEAD ARSENATE,1,Known,True,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7784-42-1,ARSINE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7786-34-7,MEVINPHOS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7787-49-5,BERYLLIUM FLUORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7789-60-8,PHOSPHORUS TRIBROMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7790-98-9,AMMONIUM PERCHLORATE,1,,False,,False,,False,Ammonium perchlorate,,DTXSID4024515,Negative,,,Negative,,,,,,,No Evidence,True,,,,,,,,False
+7791-12-0,THALLIUM CHLORIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+78-00-2,TETRAETHYLLEAD,1,RAHC,True,,False,,False,Tetraethyl lead,,DTXSID7023801,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+78-59-1,ISOPHORONE,91,,False,,False,ISOPHORONE,True,Isophorone,TR-291,DTXSID8020759,Negative,,,,,,,,,,No Evidence,True,Isophorone,DTXSID8020759,"KIDNEY_TUBULAR_CELL,PREPUTIAL_GLAND",,,,Evidence,True
+78-83-1,2-METHYL-1-PROPANOL;ISOBUTYL ALCOHOL,3,,False,,False,,False,Isobutyl alcohol,,DTXSID0021759,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+78-84-0,ETHANE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+78-87-5,"1,2-DICHLOROPROPANE",161,,False,"1,2-Dichloropropane",True,"1,2-DICHLOROPROPANE",True,"1,2-Dichloropropane (propylene dichloride)",TR-263,DTXSID0020448,Weakly Positive,,,,,,,,,,Weak Evidence,True,"1,2-Dichloropropane (propylene dichloride)",DTXSID0020448,,,LIVER,LIVER,Evidence,True
+78-93-3,2-BUTANONE;MEK;METHYL ETHYL KETONE,346,,False,,False,2-BUTANONE,True,Methyl ethyl ketone,,DTXSID3021516,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+78-99-9,PROPYLIDENE CHLORIDE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+7803-62-5,SILANE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+786-19-6,CARBOPHENOTHION,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+78763-54-9,MONOBUTYLTIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+79-00-5,"1,1,2-TCA;1,1,2-TRICHLOROETHANE",231,,False,"1,1,2-Trichloroethane",True,"1,1,2-TRICHLOROETHANE",True,"1,1,2-Trichloroethane",TR-074,DTXSID5021380,Equivocal;Negative,,,,,,,,,,No Evidence,True,"1,1,2-Trichloroethane",DTXSID5021380,,,"ADRENAL_GLAND_MEDULLA,LIVER","ADRENAL_GLAND_MEDULLA,LIVER",Evidence,True
+79-01-6,TRICHLOROETHYLENE;TCE;TRICHLOROETHENE,842,Known,True,Trichloroethylene,True,TRICHLOROETHYLENE,True,Trichloroethylene,"TR-002, TR-243, TR-273",DTXSID0021383,Negative,,,Negative,,,,,,,No Evidence,True,Trichloroethylene,DTXSID0021383,,,LIVER,LIVER,Evidence,True
+79-06-1,ACRYLAMIDE,1,RAHC,True,Acrylamide,True,ACRYLAMIDE,True,Acrylamide,TR-575,DTXSID5020027,Negative;Weakly Positive,Equivocal;Negative,,Positive,Positive;Negative,,,,Positive,,Evidence,True,Acrylamide,DTXSID5020027,"EPIDIDYMIS,EPIDIDYMIS_OR_TESTIS,HEART,PANCREAS_ISLET_CELL,TESTIS,THYROID_GLAND_FOLLICULAR_CELL","CLITORAL_GLAND,HEART,LIVER,MAMMARY_GLAND,ORAL_CAVITY,SKIN,THYROID_GLAND_FOLLICULAR_CELL","FORESTOMACH,HARDERIAN_GLAND,LUNG","FORESTOMACH,HARDERIAN_GLAND,LUNG,MAMMARY_GLAND,OVARY,SKIN",Evidence,True
+79-09-4,PROPIONIC ACID,2,,False,,False,,False,Propionic acid,,DTXSID8025961,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+79-11-8,CHLOROACETIC ACID,1,,False,,False,,False,Monochloroacetic acid,TR-396,DTXSID4020901,Negative,,,,,,,,,,No Evidence,True,Monochloroacetic acid,DTXSID4020901,,,,,No Evidence,True
+79-20-9,METHYL ACETATE,7,,False,,False,,False,Methyl acetate,,DTXSID4021767,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+79-27-6,"ACETYLENE TETRABROMIDE;1,1,2,2-TETRABROMOETHANE",2,,False,,False,,False,"1,1,2,2-Tetrabromoethane",,DTXSID1026083,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+79-34-5,"ACETYLENE TETRACHLORIDE;TETRACHLOROETHANE;sym-TETRACHLOROETHANE;1,1,2,2-TETRACHLOROETHANE;1,1,2,2-PCA",180,,False,"1,1,2,2-Tetrachloroethane",True,"1,1,2,2-TETRACHLOROETHANE",True,"1,1,2,2-Tetrachloroethane",TR-027,DTXSID7021318,Negative,,,Equivocal;Positive,Positive,,,,,,Evidence,True,"1,1,2,2-Tetrachloroethane",DTXSID7021318,,,LIVER,LIVER,Evidence,True
+80-62-6,METHYL METHACRYLATE,4,,False,Methyl methacrylate,True,,False,Methyl methacrylate,TR-314,DTXSID2020844,Negative;Weakly Positive,,,Equivocal,,,,,,,Weak Evidence,True,,,,,,,,False
+8001-35-2,CAMPHECHLOR;TOXAPHENE;TOXAPHENE (POLYCHLORINATED CAMPHENES),45,RAHC,True,Toxaphene (Polychlorinated camphenes),True,TOXAPHENE,True,Toxaphene,TR-037,DTXSID7021368,Positive,,,,,,,,,,Evidence,True,Toxaphene,DTXSID7021368,,,LIVER,LIVER,Evidence,True
+8001-58-9,CREOSOTE,26,,False,Creosotes,True,,False,"Creosote, coal tar",,DTXSID4024852,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+8004-87-3,GENTIAN VIOLET;CRYSTAL VIOLET,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8006-61-9,GASOLINE,16,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8007-45-2,COAL TARS,4,Known,True,Coal tars (see Coal-tar distillation);Coal-tar distillation,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8008-20-6,KEROSENE,4,,False,,False,JP-8;JP-5;KEROSENE,True,Navy fuels JP-5,TR-310,DTXSID3025704,Negative,,,,,,,,,,No Evidence,True,Navy fuels JP-5,DTXSID3025704,,,,,No Evidence,True
+8012-95-1,PETROLEUM HYDROCARBONS;MINERAL OIL,26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8047-67-4,SACCHARATED IRON OXIDE,1,,False,Saccharated iron oxide,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8051-02-3,SABADILLA,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+8052-41-3,STODDARD SOLVENT,3,,False,,False,,False,Stoddard solvent,,DTXSID9026051,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+81-81-2,WARFARIN,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+82-68-8,PENTACHLORONITROBENZENE,1,,False,Quintozene (Pentachloronitrobenzene),True,,False,Pentachloronitrobenzene,"TR-061, TR-325",DTXSID2021105,Negative,,,,,,,,,,No Evidence,True,Pentachloronitrobenzene,DTXSID2021105,,,,,No Evidence,True
+83-32-9,ACENAPHTHENE,248,,False,Acenaphthene,True,ACENAPHTHENE,True,Acenaphthene,,DTXSID3021774,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+84-66-2,DIETHYL PHTHALATE,164,,False,,False,DIETHYL PHTHALATE,True,Diethyl phthalate,TR-429,DTXSID7021780,Negative,,,,,,,,,,No Evidence,True,Diethyl phthalate,DTXSID7021780,,,,,No Evidence,True
+84-74-2,DI-N-BUTYL PHTHALATE;DIBUTYL PHTHALATE,288,,False,,False,DI-N-BUTYL PHTHALATE,True,Dibutyl Phthalate,,DTXSID2021781,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+842-07-9,C.I. SOLVENT YELLOW 14,1,,False,Sudan I,True,,False,C.I. Solvent Yellow 14,TR-226,DTXSID4021135,Positive,,,Equivocal,,,,,,,Evidence,True,C.I. Solvent Yellow 14,DTXSID4021135,LIVER,LIVER,,,Evidence,True
+85-01-8,PHENANTHRENE,354,,False,Phenanthrene,True,,False,Phenanthrene,,DTXSID6024254,Weakly Positive,,,,,,,,,,Weak Evidence,True,,,,,,,,False
+85-44-9,PHTHALIC ANHYDRIDE,2,,False,,False,,False,Phthalic anhydride,TR-159,DTXSID2021159,Negative,,,,,,,,,,No Evidence,True,Phthalic anhydride,DTXSID2021159,,,,,No Evidence,True
+85-68-7,BENZYL BUTYL PHTHALATE;BUTYL BENZYL PHTHALATE,186,,False,Butyl benzyl phthalate,True,,False,Butyl benzyl phthalate,"TR-213, TR-458",DTXSID3020205,Negative,,,Negative,,,,,,,No Evidence,True,Butyl benzyl phthalate,DTXSID3020205,PANCREAS_ACINAR_CELL,HEMATOPOIETIC_SYSTEM,,,Evidence,True
+86-30-6,N-NITROSODIPHENYLAMINE,57,,False,N-Nitrosodiphenylamine,True,,False,N-Nitrosodiphenylamine,TR-164,DTXSID6021030,Negative,,,,,,,,,,No Evidence,True,N-Nitrosodiphenylamine,DTXSID6021030,URINARY_BLADDER,URINARY_BLADDER,,,Evidence,True
+86-50-0,GUTHION;AZINPHOS-METHYL,6,,False,,False,GUTHION (AZINPHOS-METHYL),True,Azinphosmethyl,TR-069,DTXSID3020122,Positive;Weakly Positive,,,,,,,,,,Evidence,True,Azinphosmethyl,DTXSID3020122,,,,,No Evidence,True
+86-73-7,FLUORENE,264,,False,Fluorene,True,FLUORENE,True,,,,,,,,,,,,,,,False,,,,,,,,False
+86-74-8,CARBAZOLE,105,,False,Carbazole,True,,False,Carbazole,,DTXSID4020248,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+87-61-6,"1,2,3-TRICHLOROBENZENE",14,,False,,False,,False,"1,2,3-Trichlorobenzene",,DTXSID8026193,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+87-68-3,"HEXACHLOROBUTADIENE;HEXACHLORO-1,3-BUTADIENE",47,,False,Hexachlorobutadiene,True,HEXACHLOROBUTADIENE,True,"Hexachloro-1,3-butadiene",,DTXSID7020683,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+87-86-5,PENTACHLOROPHENOL,246,RAHC,True,Pentachlorophenol (see also Polychlorophenols),True,PENTACHLOROPHENOL,True,Pentachlorophenol,"TR-349, TR-483",DTXSID7021106,Negative,Negative,,Negative,,,,,,,No Evidence,True,Pentachlorophenol,DTXSID7021106,"MESOTHELIUM_ABDOMINAL_CAVITYTUNICA_VAGINALIS,NASAL_CAVITY",,"ADRENAL_GLAND_MEDULLA,LIVER","ADRENAL_GLAND_MEDULLA,LIVER,VASCULAR_SYSTEM_LIVER,VASCULAR_SYSTEM_SPLEEN",Evidence,True
+88-06-2,"2,4,6-TRICHLOROPHENOL",29,RAHC,True,"2,4,6-Trichlorophenol (see also Polychlorophenols)",True,,False,"2,4,6-Trichlorophenol",TR-155,DTXSID5021386,Negative,,,,,,,,,,No Evidence,True,"2,4,6-Trichlorophenol",DTXSID5021386,HEMATOPOIETIC_SYSTEM,,LIVER,LIVER,Evidence,True
+88-74-4,O-NITROANILINE;2-NITROANILINE,5,,False,,False,,False,o-Nitroaniline,,DTXSID1025726,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+88-75-5,O-NITROPHENOL;2-NITROPHENOL,22,,False,,False,,False,o-Nitrophenol,,DTXSID1021790,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+88-85-7,DNBP;DINOSEB,8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+88-89-1,"PICRIC ACID;2,4,6-TRINITROPHENOL",7,,False,,False,,False,Picric acid,,DTXSID4025909,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+90-12-0,1-METHYLNAPHTHALENE;2-METHYLNAPHTHALENE;METHYLNAPHTHALENE,275,,False,,False,1-METHYLNAPHTHALENE,True,1-Methylnaphthalene,,DTXSID9020877,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+90-43-1,O-PHENYLPHENOL,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+900-95-8,"STANNANE, ACETOXYTRIPHENYL",1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+91-08-7,"TOLUENE-2,6-DIISOCYANATE",2,RAHC,True,,False,,False,"2,6-Diisocyanatotoluene",,DTXSID2026157,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+91-20-3,NAPHTHALENE,473,RAHC,True,Naphthalene,True,NAPHTHALENE,True,Naphthalene,"TR-410, TR-500",DTXSID8020913,Negative,,,,,,,,,,No Evidence,True,Naphthalene,DTXSID8020913,NASAL_CAVITY,NASAL_CAVITY,,LUNG,Evidence,True
+91-22-5,QUINOLINE;BENZO(B)PYRIDINE,4,,False,Quinoline,True,,False,Quinoline,,DTXSID1021798,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+91-58-7,2-CHLORONAPHTHALENE,16,,False,,False,,False,2-Chloronaphthalene,,DTXSID8023971,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+91-59-8,BETA-NAPHTHYLAMINE;2-NAPHTHYLAMINE,5,Known,True,2-Naphthylamine,True,,False,2-Naphthylamine,,DTXSID2020921,Positive,,,Negative,,,,,,,Evidence,True,,,,,,,,False
+91-94-1,"3,3-DICHLOROBENZIDINE AND ITS SALTS",31,RAHC,True,"3,3'-Dichlorobenzidine",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+92-52-4,"1,1""-BIPHENYL;BIPHENYL",17,,False,,False,,False,Biphenyl,,DTXSID4020161,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+92-67-1,4-AMINOBIPHENYL,2,Known,True,4-Aminobiphenyl,True,,False,4-Biphenylamine,,DTXSID5020071,Positive,,,Positive,,,,,,,Evidence,True,,,,,,,,False
+92-84-2,PHENOTHIAZINE,2,,False,,False,,False,Phenothiazine,,DTXSID5021126,Negative,Negative,,,,,,,,,No Evidence,True,,,,,,,,False
+92-87-5,BENZIDINE,13,Known,True,Benzidine,True,,False,Benzidine,,DTXSID2020137,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+924-16-3,N-NITROSODI-N-BUTYLAMINE,1,RAHC,True,N-Nitrosodi-n-butylamine,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+93-65-2,MECOPROP;MCPP,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+93-72-1,"2,4,5-TP ACID (SILVEX)",8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+93-76-5,"2,4,5-T;2,4,5-TRICHLOROPHENOXYACETIC ACID",16,,False,,False,,False,"2,4,5-Trichlorophenoxyacetic acid",,DTXSID5021388,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+930-55-2,N-NITROSOPYRROLIDINE,1,RAHC,True,N-Nitrosopyrrolidine,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+935-95-5,"2,3,5,6-TETRACHLOROPHENOL",1,,False,,False,,False,"2,3,5,6-Tetrachlorophenol",,DTXSID2026101,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+94-36-0,BENZOYL PEROXIDE,1,,False,Benzoyl peroxide,True,,False,Benzoyl peroxide,,DTXSID6024591,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+94-59-7,SAFROLE,1,RAHC,True,Safrole,True,,False,Safrole,,DTXSID0021254,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+94-74-6,MCPA; 2-METHYL-4-CHLOROPHENOXYACETIC ACID,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+94-75-7,"2,4-D [ACETIC ACID (2,4-DICHLOROPHENOXY)-]",19,,False,"2,4-D (2,4-dichlorophenoxyacetic acid) (See also Chlorophenoxy herbicides)",True,"2,4-DICHLOROPHENOXYACETIC ACID (2,4-D)",True,"2,4-Dichlorophenoxyacetic acid",,DTXSID0020442,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+94-78-0,PHENAZOPYRIDINE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+94-82-6,"2,4-DB; 2,4-DICHLORO-PHENOXYBUTYRIC ACID",2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+944-22-9,FONOFOS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+95-31-6,INDENE,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+95-47-6,"ortho-XYLENE;O-XYLENE;1,2-DIMETHYLBENZENE",59,,False,,False,,False,o-Xylene,,DTXSID3021807,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+95-48-7,O-CRESOL;2-METHYLPHENOL;O-CRESOL(2),124,,False,,False,,False,o-Cresol,,DTXSID8021808,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+95-49-8,O-CHLOROTOLUENE;2-CHLOROTOLUENE,6,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+95-50-1,"1,2-DICHLOROBENZENE",189,,False,ortho-Dichlorobenzene,True,"1,2-DICHLOROBENZENE",True,"1,2-Dichlorobenzene (o-dichlorobenzene)",TR-255,DTXSID6020430,Negative,,,Negative,Negative,,,,,,No Evidence,True,"1,2-Dichlorobenzene (o-dichlorobenzene)",DTXSID6020430,,,,,No Evidence,True
+95-53-4,O-TOLUIDINE,4,Known,True,ortho-Toluidine,True,,False,o-Toluidine,,DTXSID1026164,Positive,Positive,,Negative,,,,,,,Evidence,True,,,,,,,,False
+95-57-8,O-CHLOROPHENOL;2-CHLOROPHENOL,51,,False,,False,,False,o-Chlorophenol,,DTXSID5021544,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+95-63-6,"1,2,4-TRIMETHYL BENZENE",75,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+95-69-2,p-CHLORO-O-TOLUIDINE,4,RAHC,True,4-Chloro-ortho-toluidine,True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+95-94-3,"1,2,4,5-TETRACHLOROBENZENE",7,,False,,False,,False,"1,2,4,5-Tetrachlorobenzene",,DTXSID7024320,Negative,,,Negative,Negative,,,,,,No Evidence,True,,,,,,,,False
+95-95-4,"2,4,5-TRICHLOROPHENOL",27,,False,,False,,False,"2,4,5-Trichlorophenol",,DTXSID4024359,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+957-51-7,DIPHENAMIDE,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+959-98-8,ALPHA-ENDOSULFAN;ENDOSULFAN I,67,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+96-12-8,"1,2-DIBROMO-3-CHLOROPROPANE (DBCP);DBCP;DIBROMOCHLOROPROPANE;1,2-DIBROMO-3-CHLOROPROPANE",29,RAHC,True,"1,2-Dibromo-3-chloropropane",True,"1,2-DIBROMO-3-CHLOROPROPANE",True,"1,2-Dibromo-3-chloropropane","TR-028, TR-206",DTXSID3020413,Positive,,,Negative,,,,,,,Evidence,True,"1,2-Dibromo-3-chloropropane",DTXSID3020413,"FORESTOMACH,NASAL_CAVITY,ORAL_CAVITY","ADRENAL_GLAND_CORTEX,FORESTOMACH,MAMMARY_GLAND,NASAL_CAVITY,ORAL_CAVITY","FORESTOMACH,LUNG,NASAL_CAVITY","FORESTOMACH,LUNG,NASAL_CAVITY",Evidence,True
+96-18-4,"1,2,3-TRICHLOROPROPANE",18,RAHC,True,"1,2,3-Trichloropropane",True,"1,2,3-TRICHLOROPROPANE",True,"1,2,3-Trichloropropane",TR-384,DTXSID9021390,Positive,,,,,,,,,,Evidence,True,"1,2,3-Trichloropropane",DTXSID9021390,"FORESTOMACH,INTESTINES_LARGE,KIDNEY_TUBULAR_CELL,ORAL_CAVITY,PANCREAS_ACINAR_CELL,PREPUTIAL_GLAND,ZYMBAL_GLAND","CLITORAL_GLAND,FORESTOMACH,INTESTINES_LARGE,MAMMARY_GLAND,ORAL_CAVITY,ZYMBAL_GLAND","FORESTOMACH,HARDERIAN_GLAND,LIVER,ORAL_CAVITY","FORESTOMACH,HARDERIAN_GLAND,LIVER,ORAL_CAVITY,UTERUSCERVIX",Evidence,True
+96-33-3,METHYL ACRYLATE,1,,False,Methyl acrylate,True,,False,Methyl acrylate,,DTXSID0024183,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+97-56-3,TOLUAZOTOLUIDINE,1,RAHC,True,ortho-Aminoazotoluene,True,,False,o-Aminoazotoluene,,DTXSID1020069,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+98-06-6,tert-BUTYLBENZENE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+98-82-8,CUMENE;ISOPROPYL BENZENE,47,RAHC,True,Cumene,True,,False,Cumene,TR-542,DTXSID1021827,Negative,Positive;Negative,,Negative,Negative,,Positive,,Negative,Positive,Evidence,True,Cumene,DTXSID1021827,"KIDNEY_TUBULAR_CELL,NASAL_CAVITY,TESTIS",NASAL_CAVITY,"LUNG,SPLEEN,THYROID_GLAND_FOLLICULAR_CELL","LIVER,LUNG",Evidence,True
+98-86-2,ACETOPHENONE,14,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+98-87-3,BENZAL CHLORIDE,2,,False,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)",True,,False,"alpha,alpha-Dichlorotoluene",,DTXSID6025014,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+98-88-4,BENZOYL CHLORIDE,2,,False,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)",True,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+98-95-3,NB;NITROBENZENE,60,RAHC,True,Nitrobenzene,True,,False,Nitrobenzene,,DTXSID3020964,Negative,,,,,,,,,,No Evidence,True,,,,,,,,False
+99-09-2,M-NITROANILINE;3-NITROANILINE,11,,False,,False,,False,m-Nitroaniline,,DTXSID6025725,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+99-35-4,"TRINITROBENZENE;1,3,5-TNB;1,3,5-TRINITROBENZENE;TNB",23,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+99-65-0,"1,3-DINITROBENZENE;1,3-DNB",16,,False,,False,"1,3-DINITROBENZENE",True,m-Dinitrobenzene,,DTXSID9024065,Positive,,,,,,,,,,Evidence,True,,,,,,,,False
+99-87-6,p-CYMENE;p-ISOPROPYLTOLUENE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+993-13-5,METHYLPHOSPHONIC ACID,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E1642818,TOTAL SUSPENDED SOLIDS (TSS),2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17000357,"DIOXINS AND FURANS, UNSPECIFIED MIXTURE;DIOXINS/FURANS; AS TEQ",20,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17001801,CARCINOGENIC POLYCYCLIC AROMATIC HYDROCARBONS (cPAH),28,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17001827,CHLOROPHENOXY HERBICIDES,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17001868,PETROLEUM NAPHTHAS,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17075086,PLUTONIUM-239/240,8,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17132176,TPH-D;TOTAL PETROLEUM HYDROCARBON -DIESEL,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17132184,TPH-G;TOTAL PETROLEUM HYDROCARBON -GASOLINE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17133026,"VANADIUM, METAL AND/OR ALLOY",79,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17135658,CORROSIVES,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17135955,SEMI-VOLATILE ORGANIC COMPOUNDS (SVOC),20,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E17136235,EXPLOSIVES,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E701029,GAMMA RADIOACTIVITY EMITTERS,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E966507,ACID COMPOUNDS,32,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+E967380,URANIUM-234/235/238,4,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000000,NO GROUP IDENTIFIED,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000002,"N-BUTYL BENZENE SULFATE;3,4-METHYLPHENOL;BASE NEUTRAL ACIDS;BENZIDINE AND ITS SALTS",70,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000003,PAH;CPAH;PAHs (POLYCYCLIC AROMATIC HYDROCARBONS),301,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000004,DIOXINS (CHLORINATED DIBENZODIOXINS);DIOXINS/DIBENZOFURANS,82,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000005,"ZINC COMPOUNDS;NITRATE/NITRITE;PHOSPHORUS COMPOUNDS;BICARBONATE;ARSENIC COMPOUNDS;BERYLLIUM COMPOUNDS;CHROMIUM (HEXAVALENT COMPOUNDS);SILICONE;BROMINE-CONTAINING INORGANIC COMPOUNDS;NICKEL COMPOUNDS;SELENIUM COMPOUNDS;INORGANICS;THALLIUM COMPOUNDS;SULFIDE;COPPER COMPOUNDS;MERCURY COMPOUNDS;LEAD COMPOUNDS (INORGANIC);NITRATE (AS NO3);MANGANESE COMPOUNDS;SILVER COMPOUNDS;BARIUM COMPOUNDS;ANTIMONY COMPOUNDS;CADMIUM COMPOUNDS;CHROMIUM COMPOUNDS;CYANIDES, INORGANIC SALTS;LEAD COMPOUNDS;CYANIDE COMPOUNDS;SULFATE;NITRATE",237,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000006,METALS,240,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000007,NITRATE/NITRITE,7,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000009,BARBITURATES;ORGANICS;HALOGENATED HYDROCARBONS,85,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000010,"DIMETHYL ETHYL BENZENE;TRICHLOROETHANE;ETHYL TOLUENE;PROPENYL BENZENE;ISOPROPENE;MONOCHLOROBENZENE;ETHYL METHYL BENZENE;VOC;TCA;1,2,2,2-TETRACHLOROETHANE;BICYCLOHEPTADIENE;METHYL MERCURY;TETRACHLOROETHANOL",400,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000011,PESTICIDES,102,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000012,TOTAL PETROLEUM HYDROCARBONS;TPH;HYDROCARBONS;PETROLEUM HYDROCARBON,85,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000014,CEMENT KILN DUST,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000015,DISSOLVED SOLIDS (TOTAL);TDS;TOTAL DISSOLVED SOLIDS,27,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000016,FLAMMABLES,5,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000017,RADIOACTIVE;RADIONUCLIDES;RADIUM-288;RADON AND ITS DECAY PRODUCTS,28,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000018,LEACHATE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000019,"2-AZO-4,6-DINITROTOLUENE;2-A-4,6-DNT;NITROAROMATICS",10,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000021,OIL & GREASE,26,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000022,ORGANIC & INORGANIC LIQUID SLUDGE,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000023,OXIDIZERS,3,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000025,REACTIVES,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000026,UNKNOWN LIQ WASTE,2,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD-00000027,PCBs,245,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
+TBD000000027,POLYCHLORINATED BIPHENYLS (CONTAINING 60 OR MOREPERCENT CHLORINE BY MOLECULAR WEIGHT,1,,False,,False,,False,,,,,,,,,,,,,,,False,,,,,,,,False
